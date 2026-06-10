@@ -1,0 +1,49 @@
+team,depth,heat_adapt,humidity_adapt,altitude_adapt,travel_resilience,upset_potential,upset_resilience,note
+Mexico,0.278,0.65,0.35,0.75,0.7,-0.05,0.25,heuristic_editable_prior_not_validated
+South Africa,-0.493,0.4,0.1,0.2,0.0,0.644,-0.2,heuristic_editable_prior_not_validated
+South Korea,0.018,0.1,0.35,0.0,-0.15,0.184,0.016,heuristic_editable_prior_not_validated
+Czech Republic,-0.022,-0.2,-0.1,0.0,-0.1,0.22,-0.02,heuristic_editable_prior_not_validated
+Canada,0.084,-0.4,-0.2,0.05,0.7,0.124,0.076,heuristic_editable_prior_not_validated
+Bosnia and Herzegovina,-0.344,-0.1,0.0,0.0,-0.1,0.51,-0.2,heuristic_editable_prior_not_validated
+Qatar,-0.6,0.75,0.2,0.0,-0.15,0.8,-0.2,heuristic_editable_prior_not_validated
+Switzerland,0.313,-0.25,-0.15,0.0,-0.1,-0.082,0.282,heuristic_editable_prior_not_validated
+Brazil,0.536,0.7,0.75,0.0,0.35,-0.2,0.482,heuristic_editable_prior_not_validated
+Morocco,0.164,0.5,0.1,0.0,0.0,0.052,0.148,heuristic_editable_prior_not_validated
+Haiti,-0.449,0.75,0.8,0.0,0.45,0.604,-0.2,heuristic_editable_prior_not_validated
+Scotland,0.071,-0.4,0.0,0.0,-0.1,0.136,0.064,heuristic_editable_prior_not_validated
+United States,-0.053,0.2,0.2,0.1,0.7,0.248,-0.048,heuristic_editable_prior_not_validated
+Paraguay,0.184,0.6,0.5,0.2,0.35,0.034,0.166,heuristic_editable_prior_not_validated
+Australia,0.06,0.35,0.1,0.0,-0.15,0.146,0.054,heuristic_editable_prior_not_validated
+Turkey,0.358,0.2,0.05,0.0,-0.1,-0.122,0.322,heuristic_editable_prior_not_validated
+Germany,0.404,-0.2,-0.1,0.0,-0.1,-0.164,0.364,heuristic_editable_prior_not_validated
+Curaçao,-0.6,0.75,0.8,0.0,0.45,0.8,-0.2,heuristic_editable_prior_not_validated
+Ivory Coast,-0.122,0.75,0.8,0.0,0.0,0.31,-0.11,heuristic_editable_prior_not_validated
+Ecuador,0.411,0.55,0.5,0.8,0.35,-0.17,0.37,heuristic_editable_prior_not_validated
+Netherlands,0.431,-0.25,0.0,0.0,-0.1,-0.188,0.388,heuristic_editable_prior_not_validated
+Japan,0.347,0.3,0.6,0.0,-0.15,-0.112,0.312,heuristic_editable_prior_not_validated
+Sweden,-0.084,-0.45,-0.2,0.0,-0.1,0.276,-0.076,heuristic_editable_prior_not_validated
+Tunisia,-0.271,0.65,0.1,0.0,0.0,0.444,-0.2,heuristic_editable_prior_not_validated
+Belgium,0.318,-0.2,0.0,0.0,-0.1,-0.086,0.286,heuristic_editable_prior_not_validated
+Egypt,-0.12,0.75,0.05,0.0,0.0,0.308,-0.108,heuristic_editable_prior_not_validated
+Iran,0.049,0.5,0.0,0.25,-0.15,0.156,0.044,heuristic_editable_prior_not_validated
+New Zealand,-0.418,-0.1,0.05,0.0,-0.1,0.576,-0.2,heuristic_editable_prior_not_validated
+Spain,0.9,0.35,0.05,0.0,-0.1,-0.2,0.8,heuristic_editable_prior_not_validated
+Cape Verde,-0.382,0.7,0.45,0.0,0.0,0.544,-0.2,heuristic_editable_prior_not_validated
+Saudi Arabia,-0.402,0.8,0.0,0.0,-0.15,0.562,-0.2,heuristic_editable_prior_not_validated
+Uruguay,0.316,0.35,0.3,0.0,0.35,-0.084,0.284,heuristic_editable_prior_not_validated
+France,0.693,0.0,0.0,0.0,-0.1,-0.2,0.624,heuristic_editable_prior_not_validated
+Senegal,0.26,0.75,0.65,0.0,0.0,-0.034,0.234,heuristic_editable_prior_not_validated
+Iraq,-0.293,0.75,0.0,0.0,-0.15,0.464,-0.2,heuristic_editable_prior_not_validated
+Norway,0.371,-0.5,-0.2,0.0,-0.1,-0.134,0.334,heuristic_editable_prior_not_validated
+Argentina,0.809,0.35,0.2,0.0,0.35,-0.2,0.728,heuristic_editable_prior_not_validated
+Algeria,0.022,0.75,0.05,0.0,0.0,0.18,0.02,heuristic_editable_prior_not_validated
+Austria,0.178,-0.2,-0.1,0.0,-0.1,0.04,0.16,heuristic_editable_prior_not_validated
+Jordan,-0.144,0.75,0.0,0.0,-0.15,0.33,-0.13,heuristic_editable_prior_not_validated
+Portugal,0.524,0.3,0.15,0.0,-0.1,-0.2,0.472,heuristic_editable_prior_not_validated
+Dem. Rep. of Congo,-0.198,0.8,0.85,0.0,0.0,0.378,-0.178,heuristic_editable_prior_not_validated
+Uzbekistan,-0.071,0.2,0.0,0.15,-0.15,0.264,-0.064,heuristic_editable_prior_not_validated
+Colombia,0.504,0.65,0.7,0.5,0.35,-0.2,0.454,heuristic_editable_prior_not_validated
+England,0.602,-0.3,0.0,0.0,-0.1,-0.2,0.542,heuristic_editable_prior_not_validated
+Croatia,0.351,-0.05,0.1,0.0,-0.1,-0.116,0.316,heuristic_editable_prior_not_validated
+Ghana,-0.533,0.8,0.8,0.0,0.0,0.68,-0.2,heuristic_editable_prior_not_validated
+Panama,-0.044,0.8,0.85,0.0,0.45,0.24,-0.04,heuristic_editable_prior_not_validated

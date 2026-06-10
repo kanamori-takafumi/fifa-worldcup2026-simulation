@@ -1,0 +1,49 @@
+scenario_id,group,position,team,status
+C01,A,1,Mexico,auto
+C01,A,2,South Korea,auto
+C01,A,3,Czech Republic,out
+C01,A,4,South Africa,out
+C01,B,1,Canada,auto
+C01,B,2,Switzerland,auto
+C01,B,3,Bosnia and Herzegovina,out
+C01,B,4,Qatar,out
+C01,C,1,Brazil,auto
+C01,C,2,Morocco,auto
+C01,C,3,Scotland,best_third
+C01,C,4,Haiti,best_third
+C01,D,1,Turkey,auto
+C01,D,2,United States,auto
+C01,D,3,Paraguay,best_third
+C01,D,4,Australia,best_third
+C01,E,1,Ecuador,auto
+C01,E,2,Germany,auto
+C01,E,3,Ivory Coast,best_third
+C01,E,4,Curaçao,best_third
+C01,F,1,Japan,auto
+C01,F,2,Netherlands,auto
+C01,F,3,Tunisia,best_third
+C01,F,4,Sweden,best_third
+C01,G,1,Belgium,auto
+C01,G,2,Iran,auto
+C01,G,3,Egypt,best_third
+C01,G,4,New Zealand,best_third
+C01,H,1,Spain,auto
+C01,H,2,Uruguay,auto
+C01,H,3,Cape Verde,out
+C01,H,4,Saudi Arabia,out
+C01,I,1,France,auto
+C01,I,2,Senegal,auto
+C01,I,3,Norway,best_third
+C01,I,4,Iraq,best_third
+C01,J,1,Argentina,auto
+C01,J,2,Austria,auto
+C01,J,3,Algeria,out
+C01,J,4,Jordan,out
+C01,K,1,Colombia,auto
+C01,K,2,Portugal,auto
+C01,K,3,Dem. Rep. of Congo,best_third
+C01,K,4,Uzbekistan,best_third
+C01,L,1,England,auto
+C01,L,2,Croatia,auto
+C01,L,3,Panama,best_third
+C01,L,4,Ghana,best_third

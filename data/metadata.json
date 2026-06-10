@@ -1,0 +1,21 @@
+{
+  "created_at_jst": "2026-06-09",
+  "tournament": "FIFA World Cup 2026",
+  "model_status": "reproducible Elo Monte Carlo with FIFA Annexe C third-place assignment table, explicit upset mechanisms, and configurable scenario factors; not an official forecast",
+  "data_notes": [
+    "Teams and groups are entered as group-position data in data/teams.csv.",
+    "Elo ratings are stored in data/teams.csv and can be replaced by editing the elo column.",
+    "Group fixtures follow the FIFA four-team group-position pattern encoded in data/group_stage.csv.",
+    "Round-of-32 direct pairings and allowed third-place group sets are encoded in data/round32_slots.csv.",
+    "FIFA Regulations Annexe C is encoded in data/annex_c_third_place_assignments.csv with 495 options and columns 1A, 1B, 1D, 1E, 1G, 1I, 1K, 1L.",
+    "The validator checks that Annexe C contains all C(12,8)=495 third-place group combinations and that every assignment satisfies the allowed Round-of-32 third-place slot constraints.",
+    "Group ranking implements points first; for teams tied on points it applies head-to-head points, head-to-head goal difference, head-to-head goals scored, then overall goal difference and overall goals scored. Team conduct is not simulated; if teams.csv has fifa_rank and --fallback-ranking=fifa_rank is used, FIFA ranking can be used as the final fallback. Otherwise Elo is used as the deterministic fallback.",
+    "data/team_factors.csv contains editable heuristic scenario priors for depth, climate adaptation, travel resilience, upset potential, and upset resilience. These are not validated measurements and should be replaced or sensitivity-tested for serious analysis.",
+    "The moderate uncertainty profile uses tournament-level team rating noise, heavy-tailed match-level shocks, Gamma-Poisson goal overdispersion, an Elo shrinkage factor, explicit underdog shock events, and a 50/50 blend in drawn knockout tie-breakers. Individual options can override all defaults."
+  ],
+  "main_sources": [
+    "https://digitalhub.fifa.com/m/636f5c9c6f29771f/original/FWC2026_regulations_EN.pdf",
+    "https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf",
+    "https://www.international-football.net/elo-ratings-table"
+  ]
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+
+# Generated local runs. The curated snapshot under outputs/latest is tracked.
+outputs/*
+!outputs/latest/
+!outputs/latest/**
+outputs_*/
+outputs-*/
+*.log
+
+# Optional generated rasters
+*.png

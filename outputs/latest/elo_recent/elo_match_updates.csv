@@ -1,0 +1,482 @@
+match_index,input_order,date,home_team_raw,away_team_raw,home_team,away_team,home_score,away_score,tournament,neutral,k_factor,goal_diff_multiplier,home_elo_before,away_elo_before,home_expected,away_expected,home_result,away_result,home_delta_raw,home_delta,away_delta,home_elo_after,away_elo_after,has_focus_team
+1,48394,2025-06-09,Algeria,Rwanda,Algeria,Rwanda,2,0,Friendly,0,20.0,1.5,1760.0,1500.0,0.888184,0.111816,1.0,0.0,3.354473,3,-3,1763.0,1497.0,1
+2,48398,2025-06-09,Liechtenstein,Scotland,Liechtenstein,Scotland,0,4,Friendly,0,20.0,1.875,1500.0,1782.0,0.259672,0.740328,0.0,1.0,-9.737684,-10,10,1490.0,1792.0,1
+3,48400,2025-06-09,Morocco,Benin,Morocco,Benin,1,0,Friendly,0,20.0,1.0,1824.0,1500.0,0.919882,0.080118,1.0,0.0,1.602367,2,-2,1826.0,1498.0,1
+4,48403,2025-06-09,Estonia,Norway,Estonia,Norway,0,1,FIFA World Cup qualification,0,40.0,1.0,1500.0,1917.0,0.138859,0.861141,0.0,1.0,-5.554363,-6,6,1494.0,1923.0,1
+5,48405,2025-06-09,Belgium,Wales,Belgium,Wales,4,3,FIFA World Cup qualification,0,40.0,1.0,1893.0,1500.0,0.944692,0.055308,1.0,0.0,2.212331,2,-2,1895.0,1498.0,1
+6,48407,2025-06-09,Croatia,Czech Republic,Croatia,Czech Republic,5,1,FIFA World Cup qualification,0,40.0,1.875,1908.0,1740.0,0.823862,0.176138,1.0,0.0,13.210385,13,-13,1921.0,1727.0,1
+7,48424,2025-06-10,England,Senegal,England,Senegal,1,3,Friendly,0,20.0,1.5,2021.0,1867.0,0.81186,0.18814,0.0,1.0,-24.3558,-24,24,1997.0,1891.0,1
+8,48428,2025-06-10,Mexico,Turkey,Mexico,Turkey,1,0,Friendly,1,20.0,1.0,1875.0,1911.0,0.448376,0.551624,1.0,0.0,11.032471,11,-11,1886.0,1900.0,1
+9,48431,2025-06-10,Slovenia,Bosnia and Herzegovina,Slovenia,Bosnia and Herzegovina,2,1,Friendly,0,20.0,1.0,1500.0,1595.0,0.507195,0.492805,1.0,0.0,9.856098,10,-10,1510.0,1585.0,1
+10,48432,2025-06-10,South Africa,Mozambique,South Africa,Mozambique,2,0,Friendly,0,20.0,1.5,1528.0,1500.0,0.676302,0.323698,1.0,0.0,9.71095,10,-10,1538.0,1490.0,1
+11,48433,2025-06-10,Sweden,Algeria,Sweden,Algeria,4,3,Friendly,0,20.0,1.0,1712.0,1763.0,0.570053,0.429947,1.0,0.0,8.598944,9,-9,1721.0,1754.0,1
+12,48434,2025-06-10,United States,Switzerland,United States,Switzerland,0,4,Friendly,0,20.0,1.875,1726.0,1891.0,0.407534,0.592466,0.0,1.0,-15.282516,-15,15,1711.0,1906.0,1
+13,48436,2025-06-10,Uruguay,Venezuela,Uruguay,Venezuela,2,0,FIFA World Cup qualification,0,40.0,1.5,1892.0,1500.0,0.94439,0.05561,1.0,0.0,3.336589,3,-3,1895.0,1497.0,1
+14,48437,2025-06-10,Peru,Ecuador,Peru,Ecuador,0,0,FIFA World Cup qualification,0,40.0,1.0,1500.0,1935.0,0.126926,0.873074,0.5,0.5,14.922955,15,-15,1515.0,1920.0,1
+15,48438,2025-06-10,Argentina,Colombia,Argentina,Colombia,1,1,FIFA World Cup qualification,0,40.0,1.0,2114.0,1977.0,0.796455,0.203545,0.5,0.5,-11.858188,-12,12,2102.0,1989.0,1
+16,48439,2025-06-10,Brazil,Paraguay,Brazil,Paraguay,1,0,FIFA World Cup qualification,0,40.0,1.0,1991.0,1833.0,0.815352,0.184648,1.0,0.0,7.385927,7,-7,1998.0,1826.0,1
+17,48440,2025-06-10,Uzbekistan,Qatar,Uzbekistan,Qatar,3,0,FIFA World Cup qualification,0,40.0,1.75,1718.0,1421.0,0.907654,0.092346,1.0,0.0,6.46425,6,-6,1724.0,1415.0,1
+18,48441,2025-06-10,Iran,North Korea,Iran,North Korea,3,0,FIFA World Cup qualification,0,40.0,1.75,1772.0,1500.0,0.894863,0.105137,1.0,0.0,7.359605,7,-7,1779.0,1493.0,1
+19,48443,2025-06-10,South Korea,Kuwait,South Korea,Kuwait,4,0,FIFA World Cup qualification,0,40.0,1.875,1758.0,1500.0,0.887036,0.112964,1.0,0.0,8.47232,8,-8,1766.0,1492.0,1
+20,48444,2025-06-10,Jordan,Iraq,Jordan,Iraq,0,1,FIFA World Cup qualification,0,40.0,1.0,1685.0,1618.0,0.723388,0.276612,0.0,1.0,-28.935515,-29,29,1656.0,1647.0,1
+21,48447,2025-06-10,Japan,Indonesia,Japan,Indonesia,6,0,FIFA World Cup qualification,0,40.0,2.125,1906.0,1500.0,0.948474,0.051526,1.0,0.0,4.3797,4,-4,1910.0,1496.0,1
+22,48448,2025-06-10,Saudi Arabia,Australia,Saudi Arabia,Australia,1,2,FIFA World Cup qualification,0,40.0,1.0,1569.0,1777.0,0.349395,0.650605,0.0,1.0,-13.975815,-14,14,1555.0,1791.0,1
+23,48449,2025-06-10,Netherlands,Malta,Netherlands,Malta,8,0,FIFA World Cup qualification,0,40.0,2.375,1944.0,1500.0,0.958174,0.041826,1.0,0.0,3.973453,4,-4,1948.0,1496.0,1
+24,48451,2025-06-10,San Marino,Austria,San Marino,Austria,0,4,FIFA World Cup qualification,0,40.0,1.875,1500.0,1830.0,0.210156,0.789844,0.0,1.0,-15.761687,-16,16,1484.0,1846.0,1
+25,48455,2025-06-10,New Zealand,Ukraine,New Zealand,Ukraine,1,2,Canadian Shield,1,30.0,1.0,1562.0,1500.0,0.58829,0.41171,0.0,1.0,-17.648699,-18,18,1544.0,1518.0,1
+26,48456,2025-06-10,Canada,Ivory Coast,Canada,Ivory Coast,0,0,Canadian Shield,0,30.0,1.0,1788.0,1695.0,0.752315,0.247685,0.5,0.5,-7.56945,-8,8,1780.0,1703.0,1
+27,48463,2025-06-10,Haiti,Curaçao,Haiti,Curaçao,1,5,FIFA World Cup qualification,1,40.0,1.875,1548.0,1434.0,0.658415,0.341585,0.0,1.0,-49.381089,-49,49,1499.0,1483.0,1
+28,48465,2025-06-10,Panama,Nicaragua,Panama,Nicaragua,3,0,FIFA World Cup qualification,0,40.0,1.75,1730.0,1500.0,0.86985,0.13015,1.0,0.0,9.110504,9,-9,1739.0,1491.0,1
+29,48470,2025-06-14,Mexico,Dominican Republic,Mexico,Dominican Republic,3,2,Gold Cup,1,30.0,1.0,1886.0,1500.0,0.902207,0.097793,1.0,0.0,2.93378,3,-3,1889.0,1497.0,1
+30,48472,2025-06-15,United States,Trinidad and Tobago,United States,Trinidad and Tobago,5,0,Gold Cup,0,30.0,2.0,1711.0,1500.0,0.856959,0.143041,1.0,0.0,8.582452,9,-9,1720.0,1491.0,1
+31,48473,2025-06-15,Haiti,Saudi Arabia,Haiti,Saudi Arabia,0,1,Gold Cup,1,30.0,1.0,1499.0,1555.0,0.4201,0.5799,0.0,1.0,-12.603007,-13,13,1486.0,1568.0,1
+32,48474,2025-06-16,Panama,Guadeloupe,Panama,Guadeloupe,5,2,Gold Cup,1,30.0,1.75,1739.0,1500.0,0.798315,0.201685,1.0,0.0,10.588476,11,-11,1750.0,1489.0,1
+33,48476,2025-06-17,Curaçao,El Salvador,Curaçao,El Salvador,0,0,Gold Cup,1,30.0,1.0,1483.0,1500.0,0.475555,0.524445,0.5,0.5,0.733364,1,-1,1484.0,1499.0,1
+34,48477,2025-06-17,Canada,Honduras,Canada,Honduras,6,0,Gold Cup,0,30.0,2.125,1780.0,1500.0,0.899117,0.100883,1.0,0.0,6.431268,6,-6,1786.0,1494.0,1
+35,48479,2025-06-18,Suriname,Mexico,Suriname,Mexico,0,2,Gold Cup,1,30.0,1.5,1500.0,1889.0,0.09628,0.90372,0.0,1.0,-4.33258,-4,4,1496.0,1893.0,1
+36,48480,2025-06-19,Trinidad and Tobago,Haiti,Trinidad and Tobago,Haiti,1,1,Gold Cup,1,30.0,1.0,1491.0,1486.0,0.507195,0.492805,0.5,0.5,-0.215852,0,0,1491.0,1486.0,1
+37,48481,2025-06-19,United States,Saudi Arabia,United States,Saudi Arabia,1,0,Gold Cup,0,30.0,1.0,1720.0,1568.0,0.810095,0.189905,1.0,0.0,5.697145,6,-6,1726.0,1562.0,1
+38,48483,2025-06-20,Guatemala,Panama,Guatemala,Panama,0,1,Gold Cup,1,30.0,1.0,1500.0,1750.0,0.191682,0.808318,0.0,1.0,-5.75047,-6,6,1494.0,1756.0,1
+39,48484,2025-06-21,Curaçao,Canada,Curaçao,Canada,1,1,Gold Cup,1,30.0,1.0,1484.0,1786.0,0.14951,0.85049,0.5,0.5,10.514709,11,-11,1495.0,1775.0,1
+40,48486,2025-06-22,Mexico,Costa Rica,Mexico,Costa Rica,0,0,Gold Cup,1,30.0,1.0,1893.0,1500.0,0.905705,0.094295,0.5,0.5,-12.171161,-12,12,1881.0,1512.0,1
+41,48488,2025-06-22,Saudi Arabia,Trinidad and Tobago,Saudi Arabia,Trinidad and Tobago,1,1,Gold Cup,1,30.0,1.0,1562.0,1491.0,0.600778,0.399222,0.5,0.5,-3.023347,-3,3,1559.0,1494.0,1
+42,48489,2025-06-22,United States,Haiti,United States,Haiti,2,1,Gold Cup,0,30.0,1.0,1726.0,1486.0,0.876229,0.123771,1.0,0.0,3.71312,4,-4,1730.0,1482.0,1
+43,48490,2025-06-24,Honduras,Curaçao,Honduras,Curaçao,2,1,Gold Cup,1,30.0,1.0,1494.0,1495.0,0.498561,0.501439,1.0,0.0,15.043173,15,-15,1509.0,1480.0,1
+44,48491,2025-06-24,Canada,El Salvador,Canada,El Salvador,2,0,Gold Cup,1,30.0,1.5,1775.0,1499.0,0.830445,0.169555,1.0,0.0,7.629979,8,-8,1783.0,1491.0,1
+45,48492,2025-06-24,Panama,Jamaica,Panama,Jamaica,4,1,Gold Cup,1,30.0,1.75,1756.0,1500.0,0.813612,0.186388,1.0,0.0,9.785359,10,-10,1766.0,1490.0,1
+46,48494,2025-06-28,Panama,Honduras,Panama,Honduras,1,1,Gold Cup,1,30.0,1.0,1766.0,1509.0,0.814484,0.185516,0.5,0.5,-9.434508,-9,9,1757.0,1518.0,1
+47,48495,2025-06-28,Mexico,Saudi Arabia,Mexico,Saudi Arabia,2,0,Gold Cup,1,30.0,1.5,1881.0,1559.0,0.864547,0.135453,1.0,0.0,6.095385,6,-6,1887.0,1553.0,1
+48,48496,2025-06-29,Canada,Guatemala,Canada,Guatemala,1,1,Gold Cup,1,30.0,1.0,1783.0,1494.0,0.840723,0.159277,0.5,0.5,-10.221691,-10,10,1773.0,1504.0,1
+49,48497,2025-06-29,United States,Costa Rica,United States,Costa Rica,2,2,Gold Cup,0,30.0,1.0,1730.0,1512.0,0.861828,0.138172,0.5,0.5,-10.854835,-11,11,1719.0,1523.0,1
+50,48499,2025-07-02,United States,Guatemala,United States,Guatemala,2,1,Gold Cup,0,30.0,1.0,1719.0,1504.0,0.859759,0.140241,1.0,0.0,4.207244,4,-4,1723.0,1500.0,1
+51,48500,2025-07-02,Mexico,Honduras,Mexico,Honduras,1,0,Gold Cup,1,30.0,1.0,1887.0,1518.0,0.893227,0.106773,1.0,0.0,3.203193,3,-3,1890.0,1515.0,1
+52,48504,2025-07-06,United States,Mexico,United States,Mexico,1,2,Gold Cup,0,30.0,1.0,1723.0,1890.0,0.404757,0.595243,0.0,1.0,-12.142709,-12,12,1711.0,1902.0,1
+53,48523,2025-08-24,Qatar,Lebanon,Qatar,Lebanon,2,2,Friendly,0,20.0,1.0,1415.0,1500.0,0.521573,0.478427,0.5,0.5,-0.431467,0,0,1415.0,1500.0,1
+54,48524,2025-09-03,Qatar,Bahrain,Qatar,Bahrain,2,2,Friendly,0,20.0,1.0,1415.0,1500.0,0.521573,0.478427,0.5,0.5,-0.431467,0,0,1415.0,1500.0,1
+55,48528,2025-09-04,Norway,Finland,Norway,Finland,1,0,Friendly,0,20.0,1.0,1923.0,1500.0,0.953052,0.046948,1.0,0.0,0.938959,1,-1,1924.0,1499.0,1
+56,48529,2025-09-04,Russia,Jordan,Russia,Jordan,0,0,Friendly,0,20.0,1.0,1500.0,1656.0,0.4201,0.5799,0.5,0.5,1.597995,2,-2,1502.0,1654.0,1
+57,48530,2025-09-04,Saudi Arabia,North Macedonia,Saudi Arabia,North Macedonia,2,1,Friendly,1,20.0,1.0,1553.0,1500.0,0.575687,0.424313,1.0,0.0,8.486261,8,-8,1561.0,1492.0,1
+58,48532,2025-09-04,Colombia,Bolivia,Colombia,Bolivia,3,0,FIFA World Cup qualification,0,40.0,1.75,1989.0,1500.0,0.967408,0.032592,1.0,0.0,2.281433,2,-2,1991.0,1498.0,1
+59,48533,2025-09-04,Argentina,Venezuela,Argentina,Venezuela,3,0,FIFA World Cup qualification,0,40.0,1.75,2102.0,1497.0,0.983015,0.016985,1.0,0.0,1.188935,1,-1,2103.0,1496.0,1
+60,48534,2025-09-04,Paraguay,Ecuador,Paraguay,Ecuador,0,0,FIFA World Cup qualification,0,40.0,1.0,1826.0,1920.0,0.508634,0.491366,0.5,0.5,-0.345353,0,0,1826.0,1920.0,1
+61,48535,2025-09-04,Uruguay,Peru,Uruguay,Peru,3,0,FIFA World Cup qualification,0,40.0,1.75,1895.0,1515.0,0.940649,0.059351,1.0,0.0,4.154566,4,-4,1899.0,1511.0,1
+62,48536,2025-09-04,Brazil,Chile,Brazil,Chile,3,0,FIFA World Cup qualification,0,40.0,1.75,1998.0,1500.0,0.969003,0.030997,1.0,0.0,2.169816,2,-2,2000.0,1498.0,1
+63,48540,2025-09-04,Mauritius,Cape Verde,Mauritius,Cape Verde,0,2,FIFA World Cup qualification,0,40.0,1.5,1500.0,1578.0,0.531618,0.468382,0.0,1.0,-31.897098,-32,32,1468.0,1610.0,1
+64,48541,2025-09-04,Algeria,Botswana,Algeria,Botswana,3,1,FIFA World Cup qualification,0,40.0,1.5,1754.0,1500.0,0.884708,0.115292,1.0,0.0,6.917531,7,-7,1761.0,1493.0,1
+65,48543,2025-09-04,Tunisia,Liberia,Tunisia,Liberia,3,0,FIFA World Cup qualification,0,40.0,1.75,1628.0,1500.0,0.787927,0.212073,1.0,0.0,14.845126,15,-15,1643.0,1485.0,1
+66,48544,2025-09-04,Chad,Ghana,Chad,Ghana,1,1,FIFA World Cup qualification,0,40.0,1.0,1500.0,1510.0,0.626699,0.373301,0.5,0.5,-5.067963,-5,5,1495.0,1515.0,1
+67,48548,2025-09-04,Slovakia,Germany,Slovakia,Germany,2,0,FIFA World Cup qualification,0,40.0,1.5,1500.0,1932.0,0.128852,0.871148,1.0,0.0,52.268868,52,-52,1552.0,1880.0,1
+68,48549,2025-09-04,Georgia,Turkey,Georgia,Turkey,2,3,FIFA World Cup qualification,0,40.0,1.0,1500.0,1900.0,0.15098,0.84902,0.0,1.0,-6.039182,-6,6,1494.0,1906.0,1
+69,48550,2025-09-04,Bulgaria,Spain,Bulgaria,Spain,0,3,FIFA World Cup qualification,0,40.0,1.75,1500.0,2155.0,0.03936,0.96064,0.0,1.0,-2.755234,-3,3,1497.0,2158.0,1
+70,48552,2025-09-04,Netherlands,Poland,Netherlands,Poland,1,1,FIFA World Cup qualification,0,40.0,1.0,1948.0,1500.0,0.959087,0.040913,0.5,0.5,-18.363492,-18,18,1930.0,1518.0,1
+71,48554,2025-09-04,Liechtenstein,Belgium,Liechtenstein,Belgium,0,6,FIFA World Cup qualification,0,40.0,2.125,1490.0,1895.0,0.147327,0.852673,0.0,1.0,-12.522799,-13,13,1477.0,1908.0,1
+72,48555,2025-09-04,Iraq,Hong Kong,Iraq,Hong Kong,2,1,King's Cup,1,30.0,1.0,1647.0,1500.0,0.699769,0.300231,1.0,0.0,9.006918,9,-9,1656.0,1491.0,1
+73,48557,2025-09-04,Suriname,Panama,Suriname,Panama,0,0,FIFA World Cup qualification,0,40.0,1.0,1496.0,1757.0,0.283576,0.716424,0.5,0.5,8.656948,9,-9,1505.0,1748.0,1
+74,48559,2025-09-05,Australia,New Zealand,Australia,New Zealand,1,0,Soccer Ashes,0,30.0,1.0,1791.0,1544.0,0.880534,0.119466,1.0,0.0,3.583993,4,-4,1795.0,1540.0,1
+75,48561,2025-09-05,Romania,Canada,Romania,Canada,0,3,Friendly,0,20.0,1.75,1500.0,1773.0,0.269755,0.730245,0.0,1.0,-9.441411,-9,9,1491.0,1782.0,1
+76,48563,2025-09-05,Egypt,Ethiopia,Egypt,Ethiopia,2,0,FIFA World Cup qualification,0,40.0,1.5,1696.0,1500.0,0.846045,0.153955,1.0,0.0,9.237294,9,-9,1705.0,1491.0,1
+77,48564,2025-09-05,South Sudan,DR Congo,South Sudan,Dem. Rep. of Congo,1,4,FIFA World Cup qualification,0,40.0,1.75,1500.0,1661.0,0.413105,0.586895,0.0,1.0,-28.917348,-29,29,1471.0,1690.0,1
+78,48566,2025-09-05,Senegal,Sudan,Senegal,Sudan,2,0,FIFA World Cup qualification,0,40.0,1.5,1891.0,1500.0,0.944087,0.055913,1.0,0.0,3.354774,3,-3,1894.0,1497.0,1
+79,48568,2025-09-05,South Africa,Lesotho,South Africa,Lesotho,3,0,FIFA World Cup qualification,0,40.0,1.75,1538.0,1500.0,0.688774,0.311226,1.0,0.0,21.78585,22,-22,1560.0,1478.0,1
+80,48570,2025-09-05,Morocco,Niger,Morocco,Niger,5,0,FIFA World Cup qualification,0,40.0,2.0,1826.0,1500.0,0.920726,0.079274,1.0,0.0,6.341915,6,-6,1832.0,1494.0,1
+81,48572,2025-09-05,Ivory Coast,Burundi,Ivory Coast,Burundi,1,0,FIFA World Cup qualification,0,40.0,1.0,1703.0,1500.0,0.851221,0.148779,1.0,0.0,5.951168,6,-6,1709.0,1494.0,1
+82,48576,2025-09-05,Slovenia,Sweden,Slovenia,Sweden,2,2,FIFA World Cup qualification,0,40.0,1.0,1510.0,1721.0,0.34548,0.65452,0.5,0.5,6.1808,6,-6,1516.0,1715.0,1
+83,48577,2025-09-05,Switzerland,Kosovo,Switzerland,Kosovo,4,0,FIFA World Cup qualification,0,40.0,1.875,1906.0,1500.0,0.948474,0.051526,1.0,0.0,3.864442,4,-4,1910.0,1496.0,1
+84,48578,2025-09-05,Denmark,Scotland,Denmark,Scotland,0,0,FIFA World Cup qualification,0,40.0,1.0,1500.0,1792.0,0.248759,0.751241,0.5,0.5,10.049632,10,-10,1510.0,1782.0,1
+85,48581,2025-09-05,Ukraine,France,Ukraine,France,0,2,FIFA World Cup qualification,1,40.0,1.5,1518.0,2062.0,0.041826,0.958174,0.0,1.0,-2.509549,-3,3,1515.0,2065.0,1
+86,48584,2025-09-05,Faroe Islands,Croatia,Faroe Islands,Croatia,0,1,FIFA World Cup qualification,0,40.0,1.0,1500.0,1921.0,0.136129,0.863871,0.0,1.0,-5.445141,-5,5,1495.0,1926.0,1
+87,48585,2025-09-05,Montenegro,Czech Republic,Montenegro,Czech Republic,0,2,FIFA World Cup qualification,0,40.0,1.5,1500.0,1727.0,0.32496,0.67504,0.0,1.0,-19.497588,-19,19,1481.0,1746.0,1
+88,48587,2025-09-05,Trinidad and Tobago,Curaçao,Trinidad and Tobago,Curaçao,0,0,FIFA World Cup qualification,0,40.0,1.0,1494.0,1480.0,0.658415,0.341585,0.5,0.5,-6.336581,-6,6,1488.0,1486.0,1
+89,48588,2025-09-05,Haiti,Honduras,Haiti,Honduras,0,0,FIFA World Cup qualification,1,40.0,1.0,1482.0,1515.0,0.452651,0.547349,0.5,0.5,1.893941,2,-2,1484.0,1513.0,1
+90,48591,2025-09-06,Mexico,Japan,Mexico,Japan,0,0,Friendly,1,20.0,1.0,1902.0,1910.0,0.488489,0.511511,0.5,0.5,0.230218,0,0,1902.0,1910.0,1
+91,48593,2025-09-06,United States,South Korea,United States,South Korea,0,2,Friendly,0,20.0,1.5,1711.0,1766.0,0.5644,0.4356,0.0,1.0,-16.932015,-17,17,1694.0,1783.0,1
+92,48596,2025-09-06,Armenia,Portugal,Armenia,Portugal,0,5,FIFA World Cup qualification,0,40.0,2.0,1500.0,1986.0,0.097793,0.902207,0.0,1.0,-7.823414,-8,8,1492.0,1994.0,1
+93,48597,2025-09-06,Austria,Cyprus,Austria,Cyprus,1,0,FIFA World Cup qualification,0,40.0,1.0,1846.0,1500.0,0.928733,0.071267,1.0,0.0,2.850695,3,-3,1849.0,1497.0,1
+94,48598,2025-09-06,San Marino,Bosnia and Herzegovina,San Marino,Bosnia and Herzegovina,0,6,FIFA World Cup qualification,0,40.0,2.125,1484.0,1585.0,0.498561,0.501439,0.0,1.0,-42.377676,-42,42,1442.0,1627.0,1
+95,48600,2025-09-06,England,Andorra,England,Andorra,2,0,FIFA World Cup qualification,0,40.0,1.5,1997.0,1500.0,0.968829,0.031171,1.0,0.0,1.870245,2,-2,1999.0,1498.0,1
+96,48602,2025-09-07,Germany,Northern Ireland,Germany,Northern Ireland,3,1,FIFA World Cup qualification,0,40.0,1.5,1880.0,1500.0,0.940649,0.059351,1.0,0.0,3.561057,4,-4,1884.0,1496.0,1
+97,48605,2025-09-07,Turkey,Spain,Turkey,Spain,0,6,FIFA World Cup qualification,0,40.0,2.125,1906.0,2158.0,0.294219,0.705781,0.0,1.0,-25.008584,-25,25,1881.0,2183.0,1
+98,48606,2025-09-07,Lithuania,Netherlands,Lithuania,Netherlands,2,3,FIFA World Cup qualification,0,40.0,1.0,1500.0,1930.0,0.13015,0.86985,0.0,1.0,-5.206002,-5,5,1495.0,1935.0,1
+99,48609,2025-09-07,Belgium,Kazakhstan,Belgium,Kazakhstan,6,0,FIFA World Cup qualification,0,40.0,2.125,1908.0,1500.0,0.949034,0.050966,1.0,0.0,4.332122,4,-4,1912.0,1496.0,1
+100,48610,2025-09-07,Qatar,Russia,Qatar,Russia,1,4,Friendly,0,20.0,1.75,1415.0,1502.0,0.5187,0.4813,0.0,1.0,-18.154492,-18,18,1397.0,1520.0,1
+101,48612,2025-09-07,Thailand,Iraq,Thailand,Iraq,0,1,King's Cup,0,30.0,1.0,1500.0,1656.0,0.4201,0.5799,0.0,1.0,-12.603007,-13,13,1487.0,1669.0,1
+102,48613,2025-09-08,Czech Republic,Saudi Arabia,Czech Republic,Saudi Arabia,1,1,Friendly,0,20.0,1.0,1746.0,1561.0,0.837615,0.162385,0.5,0.5,-6.752309,-7,7,1739.0,1568.0,1
+103,48620,2025-09-08,Zambia,Morocco,Zambia,Morocco,0,2,FIFA World Cup qualification,0,40.0,1.5,1500.0,1832.0,0.208251,0.791749,0.0,1.0,-12.49507,-12,12,1488.0,1844.0,1
+104,48622,2025-09-08,Guinea,Algeria,Guinea,Algeria,0,0,FIFA World Cup qualification,1,40.0,1.0,1500.0,1761.0,0.182062,0.817938,0.5,0.5,12.717505,13,-13,1513.0,1748.0,1
+105,48624,2025-09-08,Equatorial Guinea,Tunisia,Equatorial Guinea,Tunisia,0,1,FIFA World Cup qualification,0,40.0,1.0,1500.0,1643.0,0.438432,0.561568,0.0,1.0,-17.537282,-18,18,1482.0,1661.0,1
+106,48627,2025-09-08,Ghana,Mali,Ghana,Mali,1,0,FIFA World Cup qualification,0,40.0,1.0,1515.0,1500.0,0.659708,0.340292,1.0,0.0,13.61168,14,-14,1529.0,1486.0,1
+107,48628,2025-09-08,Kosovo,Sweden,Kosovo,Sweden,2,0,FIFA World Cup qualification,0,40.0,1.5,1496.0,1715.0,0.335142,0.664858,1.0,0.0,39.891479,40,-40,1536.0,1675.0,1
+108,48629,2025-09-08,Switzerland,Slovenia,Switzerland,Slovenia,3,0,FIFA World Cup qualification,0,40.0,1.75,1910.0,1516.0,0.944992,0.055008,1.0,0.0,3.850579,4,-4,1914.0,1512.0,1
+109,48630,2025-09-08,Belarus,Scotland,Belarus,Scotland,0,2,FIFA World Cup qualification,1,40.0,1.5,1500.0,1782.0,0.164747,0.835253,0.0,1.0,-9.88483,-10,10,1490.0,1792.0,1
+110,48633,2025-09-08,Croatia,Montenegro,Croatia,Montenegro,4,0,FIFA World Cup qualification,0,40.0,1.875,1926.0,1481.0,0.958404,0.041596,1.0,0.0,3.11968,3,-3,1929.0,1478.0,1
+111,48636,2025-09-08,Panama,Guatemala,Panama,Guatemala,1,1,FIFA World Cup qualification,0,40.0,1.0,1748.0,1500.0,0.881138,0.118862,0.5,0.5,-15.245511,-15,15,1733.0,1515.0,1
+112,48638,2025-09-09,Jordan,Dominican Republic,Jordan,Dominican Republic,3,0,Friendly,0,20.0,1.75,1654.0,1497.0,0.814484,0.185516,1.0,0.0,6.493074,6,-6,1660.0,1491.0,1
+113,48640,2025-09-09,Mexico,South Korea,Mexico,South Korea,2,2,Friendly,1,20.0,1.0,1902.0,1783.0,0.664858,0.335142,0.5,0.5,-3.29716,-3,3,1899.0,1786.0,1
+114,48641,2025-09-09,New Zealand,Australia,New Zealand,Australia,1,3,Soccer Ashes,0,30.0,1.5,1540.0,1795.0,0.290645,0.709355,0.0,1.0,-13.079042,-13,13,1527.0,1808.0,1
+115,48644,2025-09-09,United States,Japan,United States,Japan,2,0,Friendly,0,20.0,1.5,1694.0,1910.0,0.339001,0.660999,1.0,0.0,19.829973,20,-20,1714.0,1890.0,1
+116,48645,2025-09-09,Wales,Canada,Wales,Canada,0,1,Friendly,0,20.0,1.0,1498.0,1782.0,0.257464,0.742536,0.0,1.0,-5.149289,-5,5,1493.0,1787.0,1
+117,48646,2025-09-09,Ecuador,Argentina,Ecuador,Argentina,1,0,FIFA World Cup qualification,0,40.0,1.0,1920.0,2103.0,0.382775,0.617225,1.0,0.0,24.689001,25,-25,1945.0,2078.0,1
+118,48647,2025-09-09,Peru,Paraguay,Peru,Paraguay,0,1,FIFA World Cup qualification,0,40.0,1.0,1511.0,1826.0,0.224847,0.775153,0.0,1.0,-8.993885,-9,9,1502.0,1835.0,1
+119,48648,2025-09-09,Bolivia,Brazil,Bolivia,Brazil,1,0,FIFA World Cup qualification,0,40.0,1.0,1498.0,2000.0,0.089962,0.910038,1.0,0.0,36.401517,36,-36,1534.0,1964.0,1
+120,48649,2025-09-09,Venezuela,Colombia,Venezuela,Colombia,3,6,FIFA World Cup qualification,0,40.0,1.75,1496.0,1991.0,0.093316,0.906684,0.0,1.0,-6.532118,-7,7,1489.0,1998.0,1
+121,48650,2025-09-09,Chile,Uruguay,Chile,Uruguay,0,0,FIFA World Cup qualification,0,40.0,1.0,1498.0,1899.0,0.150243,0.849757,0.5,0.5,13.990274,14,-14,1512.0,1885.0,1
+122,48652,2025-09-09,Burkina Faso,Egypt,Burkina Faso,Egypt,0,0,FIFA World Cup qualification,0,40.0,1.0,1500.0,1705.0,0.353331,0.646669,0.5,0.5,5.866754,6,-6,1506.0,1699.0,1
+123,48654,2025-09-09,DR Congo,Senegal,Dem. Rep. of Congo,Senegal,2,3,FIFA World Cup qualification,0,40.0,1.0,1690.0,1894.0,0.354648,0.645352,0.0,1.0,-14.185902,-14,14,1676.0,1908.0,1
+124,48657,2025-09-09,South Africa,Nigeria,South Africa,Nigeria,1,1,FIFA World Cup qualification,0,40.0,1.0,1560.0,1500.0,0.715253,0.284747,0.5,0.5,-8.61011,-9,9,1551.0,1509.0,1
+125,48659,2025-09-09,Cape Verde,Cameroon,Cape Verde,Cameroon,1,0,FIFA World Cup qualification,0,40.0,1.0,1610.0,1500.0,0.770097,0.229903,1.0,0.0,9.196133,9,-9,1619.0,1491.0,1
+126,48663,2025-09-09,Gabon,Ivory Coast,Gabon,Ivory Coast,0,0,FIFA World Cup qualification,0,40.0,1.0,1500.0,1709.0,0.348088,0.651912,0.5,0.5,6.076482,6,-6,1506.0,1703.0,1
+127,48667,2025-09-09,France,Iceland,France,Iceland,2,1,FIFA World Cup qualification,0,40.0,1.0,2065.0,1500.0,0.978711,0.021289,1.0,0.0,0.851558,1,-1,2066.0,1499.0,1
+128,48669,2025-09-09,Hungary,Portugal,Hungary,Portugal,2,3,FIFA World Cup qualification,0,40.0,1.0,1500.0,1994.0,0.093804,0.906196,0.0,1.0,-3.752166,-4,4,1496.0,1998.0,1
+129,48670,2025-09-09,Bosnia and Herzegovina,Austria,Bosnia and Herzegovina,Austria,1,2,FIFA World Cup qualification,0,40.0,1.0,1627.0,1849.0,0.331305,0.668695,0.0,1.0,-13.252202,-13,13,1614.0,1862.0,1
+130,48672,2025-09-09,Norway,Moldova,Norway,Moldova,11,1,FIFA World Cup qualification,0,40.0,2.625,1924.0,1500.0,0.953309,0.046691,1.0,0.0,4.902561,5,-5,1929.0,1495.0,1
+131,48674,2025-09-09,Serbia,England,Serbia,England,0,5,FIFA World Cup qualification,0,40.0,2.0,1500.0,1999.0,0.091386,0.908614,0.0,1.0,-7.310876,-7,7,1493.0,2006.0,1
+132,48676,2025-09-09,Curaçao,Bermuda,Curaçao,Bermuda,3,2,FIFA World Cup qualification,0,40.0,1.0,1486.0,1500.0,0.621297,0.378703,1.0,0.0,15.148131,15,-15,1501.0,1485.0,1
+133,48677,2025-09-09,Costa Rica,Haiti,Costa Rica,Haiti,3,3,FIFA World Cup qualification,0,40.0,1.0,1523.0,1484.0,0.690006,0.309994,0.5,0.5,-7.600248,-8,8,1515.0,1492.0,1
+134,48682,2025-10-08,Qatar,Oman,Qatar,Oman,0,0,FIFA World Cup qualification,0,40.0,1.0,1397.0,1500.0,0.495683,0.504317,0.5,0.5,0.17269,0,0,1397.0,1500.0,1
+135,48683,2025-10-08,Saudi Arabia,Indonesia,Saudi Arabia,Indonesia,3,2,FIFA World Cup qualification,0,40.0,1.0,1568.0,1496.0,0.72911,0.27089,1.0,0.0,10.835601,11,-11,1579.0,1485.0,1
+136,48686,2025-10-08,Djibouti,Egypt,Djibouti,Egypt,0,3,FIFA World Cup qualification,1,40.0,1.75,1500.0,1699.0,0.241305,0.758695,0.0,1.0,-16.891377,-17,17,1483.0,1716.0,1
+137,48687,2025-10-08,Libya,Cape Verde,Libya,Cape Verde,3,3,FIFA World Cup qualification,0,40.0,1.0,1500.0,1619.0,0.472684,0.527316,0.5,0.5,1.092639,1,-1,1501.0,1618.0,1
+138,48693,2025-10-08,Central African Republic,Ghana,Central African Republic,Ghana,0,5,FIFA World Cup qualification,1,40.0,2.0,1500.0,1529.0,0.458362,0.541638,0.0,1.0,-36.668984,-37,37,1463.0,1566.0,1
+139,48697,2025-10-09,England,Wales,England,Wales,3,0,Friendly,0,20.0,1.75,2006.0,1493.0,0.971494,0.028506,1.0,0.0,0.997719,1,-1,2007.0,1492.0,1
+140,48698,2025-10-09,Poland,New Zealand,Poland,New Zealand,1,0,Friendly,0,20.0,1.0,1518.0,1527.0,0.628045,0.371955,1.0,0.0,7.439104,7,-7,1525.0,1520.0,1
+141,48700,2025-10-09,Morocco,Bahrain,Morocco,Bahrain,1,0,Friendly,0,20.0,1.0,1844.0,1500.0,0.927967,0.072033,1.0,0.0,1.440663,1,-1,1845.0,1499.0,1
+142,48703,2025-10-09,Algeria,Somalia,Algeria,Somalia,3,0,FIFA World Cup qualification,0,40.0,1.75,1748.0,1500.0,0.881138,0.118862,1.0,0.0,8.320355,8,-8,1756.0,1492.0,1
+143,48707,2025-10-09,Scotland,Greece,Scotland,Greece,3,1,FIFA World Cup qualification,0,40.0,1.5,1792.0,1500.0,0.905213,0.094787,1.0,0.0,5.687244,6,-6,1798.0,1494.0,1
+144,48709,2025-10-09,Malta,Netherlands,Malta,Netherlands,0,4,FIFA World Cup qualification,0,40.0,1.875,1496.0,1935.0,0.124396,0.875604,0.0,1.0,-9.329725,-9,9,1487.0,1944.0,1
+145,48711,2025-10-09,Austria,San Marino,Austria,San Marino,10,0,FIFA World Cup qualification,0,40.0,2.625,1862.0,1442.0,0.952273,0.047727,1.0,0.0,5.011306,5,-5,1867.0,1437.0,1
+146,48712,2025-10-09,Cyprus,Bosnia and Herzegovina,Cyprus,Bosnia and Herzegovina,2,2,FIFA World Cup qualification,0,40.0,1.0,1497.0,1614.0,0.475555,0.524445,0.5,0.5,0.977818,1,-1,1498.0,1613.0,1
+147,48714,2025-10-09,Czech Republic,Croatia,Czech Republic,Croatia,0,0,FIFA World Cup qualification,0,40.0,1.0,1739.0,1929.0,0.373301,0.626699,0.5,0.5,5.067963,5,-5,1744.0,1924.0,1
+148,48728,2025-10-09,Nicaragua,Haiti,Nicaragua,Haiti,0,3,FIFA World Cup qualification,0,40.0,1.75,1491.0,1492.0,0.638738,0.361262,0.0,1.0,-44.711642,-45,45,1446.0,1537.0,1
+149,48730,2025-10-10,Argentina,Venezuela,Argentina,Venezuela,1,0,Friendly,1,20.0,1.0,2078.0,1489.0,0.967408,0.032592,1.0,0.0,0.651838,1,-1,2079.0,1488.0,1
+150,48732,2025-10-10,Canada,Australia,Canada,Australia,0,1,Friendly,0,20.0,1.0,1787.0,1808.0,0.611771,0.388229,0.0,1.0,-12.23541,-12,12,1775.0,1820.0,1
+151,48733,2025-10-10,Russia,Iran,Russia,Iran,2,1,Friendly,0,20.0,1.0,1520.0,1779.0,0.285921,0.714079,1.0,0.0,14.281578,14,-14,1534.0,1765.0,1
+152,48734,2025-10-10,Japan,Paraguay,Japan,Paraguay,2,2,Kirin Cup,0,30.0,1.0,1890.0,1835.0,0.709355,0.290645,0.5,0.5,-6.280639,-6,6,1884.0,1841.0,1
+153,48735,2025-10-10,Uzbekistan,Kuwait,Uzbekistan,Kuwait,2,0,Friendly,0,20.0,1.5,1724.0,1492.0,0.871148,0.128852,1.0,0.0,3.865566,4,-4,1728.0,1488.0,1
+154,48736,2025-10-10,Jordan,Bolivia,Jordan,Bolivia,0,1,Friendly,1,20.0,1.0,1660.0,1534.0,0.673776,0.326224,0.0,1.0,-13.475524,-13,13,1647.0,1547.0,1
+155,48737,2025-10-10,South Korea,Brazil,South Korea,Brazil,0,5,Friendly,0,20.0,2.0,1786.0,1964.0,0.389598,0.610402,0.0,1.0,-15.583903,-16,16,1770.0,1980.0,1
+156,48738,2025-10-10,Uruguay,Dominican Republic,Uruguay,Dominican Republic,1,0,Friendly,1,20.0,1.0,1885.0,1491.0,0.906196,0.093804,1.0,0.0,1.876083,2,-2,1887.0,1489.0,1
+157,48739,2025-10-10,United States,Ecuador,United States,Ecuador,1,1,Friendly,0,20.0,1.0,1714.0,1945.0,0.319929,0.680071,0.5,0.5,3.601414,4,-4,1718.0,1941.0,1
+158,48740,2025-10-10,Togo,DR Congo,Togo,Dem. Rep. of Congo,0,1,FIFA World Cup qualification,0,40.0,1.0,1500.0,1676.0,0.392339,0.607661,0.0,1.0,-15.693557,-16,16,1484.0,1692.0,1
+159,48741,2025-10-10,South Sudan,Senegal,South Sudan,Senegal,0,5,FIFA World Cup qualification,0,40.0,2.0,1471.0,1908.0,0.125656,0.874344,0.0,1.0,-10.052462,-10,10,1461.0,1918.0,1
+160,48745,2025-10-10,South Africa,Zimbabwe,South Africa,Zimbabwe,0,0,FIFA World Cup qualification,0,40.0,1.0,1551.0,1500.0,0.704585,0.295415,0.5,0.5,-8.183384,-8,8,1543.0,1508.0,1
+161,48747,2025-10-10,Seychelles,Ivory Coast,Seychelles,Ivory Coast,0,7,FIFA World Cup qualification,1,40.0,2.25,1500.0,1703.0,0.237115,0.762885,0.0,1.0,-21.340352,-21,21,1479.0,1724.0,1
+162,48748,2025-10-10,Tunisia,São Tomé and Príncipe,Tunisia,São Tomé and Príncipe,6,0,FIFA World Cup qualification,0,40.0,2.125,1661.0,1500.0,0.817938,0.182062,1.0,0.0,15.475301,15,-15,1676.0,1485.0,1
+163,48750,2025-10-10,Germany,Luxembourg,Germany,Luxembourg,4,0,FIFA World Cup qualification,0,40.0,1.875,1884.0,1500.0,0.941922,0.058078,1.0,0.0,4.355881,4,-4,1888.0,1496.0,1
+164,48752,2025-10-10,Sweden,Switzerland,Sweden,Switzerland,0,2,FIFA World Cup qualification,0,40.0,1.5,1675.0,1914.0,0.309994,0.690006,0.0,1.0,-18.599628,-19,19,1656.0,1933.0,1
+165,48754,2025-10-10,France,Azerbaijan,France,Azerbaijan,3,0,FIFA World Cup qualification,0,40.0,1.75,2066.0,1500.0,0.978831,0.021169,1.0,0.0,1.481855,1,-1,2067.0,1499.0,1
+166,48756,2025-10-10,Belgium,North Macedonia,Belgium,North Macedonia,0,0,FIFA World Cup qualification,0,40.0,1.0,1912.0,1492.0,0.952273,0.047727,0.5,0.5,-18.090931,-18,18,1894.0,1510.0,1
+167,48758,2025-10-10,El Salvador,Panama,El Salvador,Panama,0,1,FIFA World Cup qualification,0,40.0,1.0,1491.0,1733.0,0.306312,0.693688,0.0,1.0,-12.252483,-12,12,1479.0,1745.0,1
+168,48760,2025-10-10,Curaçao,Jamaica,Curaçao,Jamaica,2,0,FIFA World Cup qualification,0,40.0,1.5,1501.0,1490.0,0.65452,0.34548,1.0,0.0,20.7288,21,-21,1522.0,1469.0,1
+169,48762,2025-10-11,Mexico,Colombia,Mexico,Colombia,0,4,Friendly,1,20.0,1.875,1899.0,1998.0,0.361262,0.638738,0.0,1.0,-13.547334,-14,14,1885.0,2012.0,1
+170,48764,2025-10-11,Iraq,Indonesia,Iraq,Indonesia,1,0,FIFA World Cup qualification,1,40.0,1.0,1669.0,1485.0,0.742536,0.257464,1.0,0.0,10.298578,10,-10,1679.0,1475.0,1
+171,48765,2025-10-11,Spain,Georgia,Spain,Georgia,2,0,FIFA World Cup qualification,0,40.0,1.5,2183.0,1494.0,0.989459,0.010541,1.0,0.0,0.632483,1,-1,2184.0,1493.0,1
+172,48766,2025-10-11,Bulgaria,Turkey,Bulgaria,Turkey,1,6,FIFA World Cup qualification,0,40.0,2.0,1497.0,1881.0,0.163169,0.836831,0.0,1.0,-13.053523,-13,13,1484.0,1894.0,1
+173,48768,2025-10-11,Portugal,Republic of Ireland,Portugal,Republic of Ireland,1,0,FIFA World Cup qualification,0,40.0,1.0,1998.0,1500.0,0.969003,0.030997,1.0,0.0,1.239895,1,-1,1999.0,1499.0,1
+174,48769,2025-10-11,Norway,Israel,Norway,Israel,5,0,FIFA World Cup qualification,0,40.0,2.0,1929.0,1500.0,0.954573,0.045427,1.0,0.0,3.634121,4,-4,1933.0,1496.0,1
+175,48773,2025-10-12,Malta,Bosnia and Herzegovina,Malta,Bosnia and Herzegovina,1,4,Friendly,0,20.0,1.75,1487.0,1613.0,0.462653,0.537347,0.0,1.0,-16.192844,-16,16,1471.0,1629.0,1
+176,48776,2025-10-12,Egypt,Guinea-Bissau,Egypt,Guinea-Bissau,1,0,FIFA World Cup qualification,0,40.0,1.0,1716.0,1500.0,0.860451,0.139549,1.0,0.0,5.581954,6,-6,1722.0,1494.0,1
+177,48779,2025-10-12,Ghana,Comoros,Ghana,Comoros,1,0,FIFA World Cup qualification,0,40.0,1.0,1566.0,1500.0,0.722235,0.277765,1.0,0.0,11.110619,11,-11,1577.0,1489.0,1
+178,48781,2025-10-12,Scotland,Belarus,Scotland,Belarus,2,1,FIFA World Cup qualification,0,40.0,1.0,1798.0,1490.0,0.912826,0.087174,1.0,0.0,3.486968,3,-3,1801.0,1487.0,1
+179,48783,2025-10-12,Netherlands,Finland,Netherlands,Finland,4,0,FIFA World Cup qualification,0,40.0,1.875,1944.0,1499.0,0.958404,0.041596,1.0,0.0,3.11968,3,-3,1947.0,1496.0,1
+180,48786,2025-10-12,Romania,Austria,Romania,Austria,1,0,FIFA World Cup qualification,0,40.0,1.0,1491.0,1867.0,0.169555,0.830445,1.0,0.0,33.217796,33,-33,1524.0,1834.0,1
+181,48787,2025-10-12,Faroe Islands,Czech Republic,Faroe Islands,Czech Republic,2,1,FIFA World Cup qualification,0,40.0,1.0,1495.0,1744.0,0.297817,0.702183,1.0,0.0,28.087304,28,-28,1523.0,1716.0,1
+182,48788,2025-10-12,Croatia,Gibraltar,Croatia,Gibraltar,3,0,FIFA World Cup qualification,0,40.0,1.75,1924.0,1500.0,0.953309,0.046691,1.0,0.0,3.268374,3,-3,1927.0,1497.0,1
+183,48790,2025-10-13,Uzbekistan,Uruguay,Uzbekistan,Uruguay,1,2,Friendly,1,20.0,1.0,1728.0,1887.0,0.285921,0.714079,0.0,1.0,-5.718422,-6,6,1722.0,1893.0,1
+184,48793,2025-10-13,Cape Verde,Eswatini,Cape Verde,Eswatini,3,0,FIFA World Cup qualification,0,40.0,1.75,1618.0,1500.0,0.778148,0.221852,1.0,0.0,15.529608,16,-16,1634.0,1484.0,1
+185,48798,2025-10-13,Tunisia,Namibia,Tunisia,Namibia,3,0,FIFA World Cup qualification,0,40.0,1.75,1676.0,1500.0,0.830445,0.169555,1.0,0.0,11.868856,12,-12,1688.0,1488.0,1
+186,48799,2025-10-13,Northern Ireland,Germany,Northern Ireland,Germany,0,1,FIFA World Cup qualification,0,40.0,1.0,1496.0,1888.0,0.156978,0.843022,0.0,1.0,-6.279121,-6,6,1490.0,1894.0,1
+187,48801,2025-10-13,Slovenia,Switzerland,Slovenia,Switzerland,0,0,FIFA World Cup qualification,0,40.0,1.0,1512.0,1933.0,0.136129,0.863871,0.5,0.5,14.554859,15,-15,1527.0,1918.0,1
+188,48802,2025-10-13,Sweden,Kosovo,Sweden,Kosovo,0,1,FIFA World Cup qualification,0,40.0,1.0,1656.0,1536.0,0.78013,0.21987,0.0,1.0,-31.205184,-31,31,1625.0,1567.0,1
+189,48803,2025-10-13,Iceland,France,Iceland,France,2,2,FIFA World Cup qualification,0,40.0,1.0,1499.0,2067.0,0.063327,0.936673,0.5,0.5,17.466925,17,-17,1516.0,2050.0,1
+190,48805,2025-10-13,Wales,Belgium,Wales,Belgium,2,4,FIFA World Cup qualification,0,40.0,1.5,1492.0,1894.0,0.14951,0.85049,0.0,1.0,-8.970582,-9,9,1483.0,1903.0,1
+191,48807,2025-10-13,Honduras,Haiti,Honduras,Haiti,3,0,FIFA World Cup qualification,0,40.0,1.75,1513.0,1537.0,0.607661,0.392339,1.0,0.0,27.463726,27,-27,1540.0,1510.0,1
+192,48809,2025-10-14,Albania,Jordan,Albania,Jordan,4,2,Friendly,0,20.0,1.5,1500.0,1647.0,0.432771,0.567229,1.0,0.0,17.016865,17,-17,1517.0,1630.0,1
+193,48810,2025-10-14,Japan,Brazil,Japan,Brazil,3,2,Kirin Cup,0,30.0,1.0,1884.0,1980.0,0.505756,0.494244,1.0,0.0,14.827314,15,-15,1899.0,1965.0,1
+194,48811,2025-10-14,Iran,Tanzania,Iran,Tanzania,2,0,Friendly,1,20.0,1.5,1765.0,1500.0,0.821341,0.178659,1.0,0.0,5.359756,5,-5,1770.0,1495.0,1
+195,48812,2025-10-14,Canada,Colombia,Canada,Colombia,0,0,Friendly,1,20.0,1.0,1775.0,2012.0,0.203545,0.796455,0.5,0.5,5.929094,6,-6,1781.0,2006.0,1
+196,48813,2025-10-14,South Korea,Paraguay,South Korea,Paraguay,2,0,Friendly,0,20.0,1.5,1770.0,1841.0,0.541638,0.458362,1.0,0.0,13.750869,14,-14,1784.0,1827.0,1
+197,48814,2025-10-14,Mexico,Ecuador,Mexico,Ecuador,1,1,Friendly,0,20.0,1.0,1885.0,1941.0,0.562985,0.437015,0.5,0.5,-1.259695,-1,1,1884.0,1942.0,1
+198,48815,2025-10-14,Norway,New Zealand,Norway,New Zealand,1,1,Friendly,0,20.0,1.0,1933.0,1520.0,0.950408,0.049592,0.5,0.5,-9.008163,-9,9,1924.0,1529.0,1
+199,48816,2025-10-14,Puerto Rico,Argentina,Puerto Rico,Argentina,0,6,Friendly,1,20.0,2.125,1500.0,2079.0,0.034457,0.965543,0.0,1.0,-1.464403,-1,1,1499.0,2080.0,1
+200,48818,2025-10-14,United States,Australia,United States,Australia,2,1,Friendly,0,20.0,1.0,1718.0,1820.0,0.497122,0.502878,1.0,0.0,10.057564,10,-10,1728.0,1810.0,1
+201,48819,2025-10-14,Qatar,United Arab Emirates,Qatar,United Arab Emirates,2,1,FIFA World Cup qualification,0,40.0,1.0,1397.0,1500.0,0.495683,0.504317,1.0,0.0,20.17269,20,-20,1417.0,1480.0,1
+202,48820,2025-10-14,Saudi Arabia,Iraq,Saudi Arabia,Iraq,0,0,FIFA World Cup qualification,0,40.0,1.0,1579.0,1679.0,0.5,0.5,0.5,0.5,0.0,0,0,1579.0,1679.0,1
+203,48821,2025-10-14,Senegal,Mauritania,Senegal,Mauritania,4,0,FIFA World Cup qualification,0,40.0,1.875,1918.0,1500.0,0.951747,0.048253,1.0,0.0,3.618953,4,-4,1922.0,1496.0,1
+204,48822,2025-10-14,DR Congo,Sudan,Dem. Rep. of Congo,Sudan,1,0,FIFA World Cup qualification,0,40.0,1.0,1692.0,1497.0,0.845294,0.154706,1.0,0.0,6.188248,6,-6,1698.0,1491.0,1
+205,48824,2025-10-14,South Africa,Rwanda,South Africa,Rwanda,3,0,FIFA World Cup qualification,0,40.0,1.75,1543.0,1497.0,0.698559,0.301441,1.0,0.0,21.100896,21,-21,1564.0,1476.0,1
+206,48825,2025-10-14,Morocco,Congo,Morocco,Congo,1,0,FIFA World Cup qualification,0,40.0,1.0,1845.0,1500.0,0.928351,0.071649,1.0,0.0,2.865973,3,-3,1848.0,1497.0,1
+207,48827,2025-10-14,Ivory Coast,Kenya,Ivory Coast,Kenya,3,0,FIFA World Cup qualification,0,40.0,1.75,1724.0,1500.0,0.86589,0.13411,1.0,0.0,9.387729,9,-9,1733.0,1491.0,1
+208,48829,2025-10-14,Algeria,Uganda,Algeria,Uganda,2,1,FIFA World Cup qualification,0,40.0,1.0,1756.0,1500.0,0.885877,0.114123,1.0,0.0,4.564922,5,-5,1761.0,1495.0,1
+209,48832,2025-10-14,Spain,Bulgaria,Spain,Bulgaria,4,0,FIFA World Cup qualification,0,40.0,1.875,2184.0,1484.0,0.990099,0.009901,1.0,0.0,0.742574,1,-1,2185.0,1483.0,1
+210,48833,2025-10-14,Turkey,Georgia,Turkey,Georgia,4,1,FIFA World Cup qualification,0,40.0,1.75,1894.0,1493.0,0.947049,0.052951,1.0,0.0,3.706556,4,-4,1898.0,1489.0,1
+211,48834,2025-10-14,Portugal,Hungary,Portugal,Hungary,2,2,FIFA World Cup qualification,0,40.0,1.0,1999.0,1496.0,0.969856,0.030144,0.5,0.5,-18.794223,-19,19,1980.0,1515.0,1
+212,48839,2025-10-14,Latvia,England,Latvia,England,0,5,FIFA World Cup qualification,0,40.0,2.0,1500.0,2007.0,0.087633,0.912367,0.0,1.0,-7.010668,-7,7,1493.0,2014.0,1
+213,48852,2025-10-14,Panama,Suriname,Panama,Suriname,1,1,FIFA World Cup qualification,0,40.0,1.0,1745.0,1505.0,0.876229,0.123771,0.5,0.5,-15.049173,-15,15,1730.0,1520.0,1
+214,48854,2025-10-14,Curaçao,Trinidad and Tobago,Curaçao,Trinidad and Tobago,1,1,FIFA World Cup qualification,0,40.0,1.0,1522.0,1488.0,0.683816,0.316184,0.5,0.5,-7.352653,-7,7,1515.0,1495.0,1
+215,48856,2025-11-12,Tunisia,Mauritania,Tunisia,Mauritania,1,1,Friendly,0,20.0,1.0,1688.0,1496.0,0.843022,0.156978,0.5,0.5,-6.860439,-7,7,1681.0,1503.0,1
+216,48866,2025-11-13,Algeria,Zimbabwe,Algeria,Zimbabwe,3,1,Friendly,1,20.0,1.5,1761.0,1508.0,0.810979,0.189021,1.0,0.0,5.670625,6,-6,1767.0,1502.0,1
+217,48868,2025-11-13,Canada,Ecuador,Canada,Ecuador,0,0,Friendly,0,20.0,1.0,1781.0,1942.0,0.413105,0.586895,0.5,0.5,1.7379,2,-2,1783.0,1940.0,1
+218,48869,2025-11-13,Czech Republic,San Marino,Czech Republic,San Marino,1,0,Friendly,0,20.0,1.0,1716.0,1437.0,0.898594,0.101406,1.0,0.0,2.028119,2,-2,1718.0,1435.0,1
+219,48874,2025-11-13,United Arab Emirates,Iraq,United Arab Emirates,Iraq,1,1,FIFA World Cup qualification,0,40.0,1.0,1480.0,1679.0,0.361262,0.638738,0.5,0.5,5.54951,6,-6,1486.0,1673.0,1
+220,48875,2025-11-13,Cameroon,DR Congo,Cameroon,Dem. Rep. of Congo,0,1,FIFA World Cup qualification,1,40.0,1.0,1491.0,1698.0,0.232975,0.767025,0.0,1.0,-9.319003,-9,9,1482.0,1707.0,1
+221,48877,2025-11-13,France,Ukraine,France,Ukraine,4,0,FIFA World Cup qualification,0,40.0,1.875,2050.0,1515.0,0.974799,0.025201,1.0,0.0,1.890064,2,-2,2052.0,1513.0,1
+222,48879,2025-11-13,Republic of Ireland,Portugal,Republic of Ireland,Portugal,2,0,FIFA World Cup qualification,0,40.0,1.5,1499.0,1980.0,0.100362,0.899638,1.0,0.0,53.978299,54,-54,1553.0,1926.0,1
+223,48881,2025-11-13,Norway,Estonia,Norway,Estonia,4,1,FIFA World Cup qualification,0,40.0,1.75,1924.0,1494.0,0.954822,0.045178,1.0,0.0,3.162428,3,-3,1927.0,1491.0,1
+224,48883,2025-11-13,England,Serbia,England,Serbia,2,0,FIFA World Cup qualification,0,40.0,1.5,2014.0,1493.0,0.972742,0.027258,1.0,0.0,1.635493,2,-2,2016.0,1491.0,1
+225,48885,2025-11-13,Iran,Cape Verde,Iran,Cape Verde,0,0,Al Ain International Cup,1,30.0,1.0,1770.0,1634.0,0.6863,0.3137,0.5,0.5,-5.589008,-6,6,1764.0,1640.0,1
+226,48888,2025-11-13,Guatemala,Panama,Guatemala,Panama,2,3,FIFA World Cup qualification,0,40.0,1.0,1515.0,1730.0,0.340292,0.659708,0.0,1.0,-13.61168,-14,14,1501.0,1744.0,1
+227,48889,2025-11-13,Bermuda,Curaçao,Bermuda,Curaçao,0,7,FIFA World Cup qualification,0,40.0,2.25,1485.0,1515.0,0.599397,0.400603,0.0,1.0,-53.945712,-54,54,1431.0,1569.0,1
+228,48891,2025-11-13,Haiti,Costa Rica,Haiti,Costa Rica,1,0,FIFA World Cup qualification,1,40.0,1.0,1510.0,1515.0,0.492805,0.507195,1.0,0.0,20.287803,20,-20,1530.0,1495.0,1
+229,48893,2025-11-14,Angola,Argentina,Angola,Argentina,0,2,Friendly,0,20.0,1.5,1500.0,2080.0,0.059351,0.940649,0.0,1.0,-1.780528,-2,2,1498.0,2082.0,1
+230,48894,2025-11-14,Australia,Venezuela,Australia,Venezuela,0,1,Friendly,1,20.0,1.0,1810.0,1488.0,0.864547,0.135453,0.0,1.0,-17.29094,-17,17,1793.0,1505.0,1
+231,48895,2025-11-14,South Korea,Bolivia,South Korea,Bolivia,2,0,Friendly,0,20.0,1.5,1784.0,1547.0,0.874344,0.125656,1.0,0.0,3.769673,4,-4,1788.0,1543.0,1
+232,48896,2025-11-14,Morocco,Mozambique,Morocco,Mozambique,1,0,Friendly,0,20.0,1.0,1848.0,1490.0,0.933172,0.066828,1.0,0.0,1.336569,1,-1,1849.0,1489.0,1
+233,48901,2025-11-14,Japan,Ghana,Japan,Ghana,2,0,Kirin Cup,0,30.0,1.5,1899.0,1577.0,0.919029,0.080971,1.0,0.0,3.643693,4,-4,1903.0,1573.0,1
+234,48902,2025-11-14,Saudi Arabia,Ivory Coast,Saudi Arabia,Ivory Coast,1,0,Friendly,0,20.0,1.0,1579.0,1733.0,0.422908,0.577092,1.0,0.0,11.54185,12,-12,1591.0,1721.0,1
+235,48903,2025-11-14,Tunisia,Jordan,Tunisia,Jordan,3,2,Friendly,0,20.0,1.0,1681.0,1630.0,0.704585,0.295415,1.0,0.0,5.908308,6,-6,1687.0,1624.0,1
+236,48904,2025-11-14,Luxembourg,Germany,Luxembourg,Germany,0,2,FIFA World Cup qualification,0,40.0,1.5,1496.0,1894.0,0.152461,0.847539,0.0,1.0,-9.147677,-9,9,1487.0,1903.0,1
+237,48907,2025-11-14,Poland,Netherlands,Poland,Netherlands,1,1,FIFA World Cup qualification,0,40.0,1.0,1525.0,1947.0,0.135453,0.864547,0.5,0.5,14.58188,15,-15,1540.0,1932.0,1
+238,48908,2025-11-14,Croatia,Faroe Islands,Croatia,Faroe Islands,3,1,FIFA World Cup qualification,0,40.0,1.5,1927.0,1523.0,0.947909,0.052091,1.0,0.0,3.125487,3,-3,1930.0,1520.0,1
+239,48910,2025-11-14,Uzbekistan,Egypt,Uzbekistan,Egypt,2,0,Al Ain International Cup,1,30.0,1.5,1722.0,1722.0,0.5,0.5,1.0,0.0,22.5,23,-23,1745.0,1699.0,1
+240,48916,2025-11-15,Brazil,Senegal,Brazil,Senegal,2,0,Friendly,1,20.0,1.5,1965.0,1922.0,0.561568,0.438432,1.0,0.0,13.152962,13,-13,1978.0,1909.0,1
+241,48917,2025-11-15,Colombia,New Zealand,Colombia,New Zealand,2,1,Friendly,1,20.0,1.0,2006.0,1529.0,0.939678,0.060322,1.0,0.0,1.206449,1,-1,2007.0,1528.0,1
+242,48918,2025-11-15,Mexico,Uruguay,Mexico,Uruguay,0,0,Friendly,0,20.0,1.0,1884.0,1893.0,0.628045,0.371955,0.5,0.5,-2.560896,-3,3,1881.0,1896.0,1
+243,48919,2025-11-15,South Africa,Zambia,South Africa,Zambia,3,1,Friendly,0,20.0,1.5,1564.0,1488.0,0.733634,0.266366,1.0,0.0,7.990989,8,-8,1572.0,1480.0,1
+244,48920,2025-11-15,United States,Paraguay,United States,Paraguay,2,1,Friendly,0,20.0,1.0,1728.0,1827.0,0.501439,0.498561,1.0,0.0,9.971218,10,-10,1738.0,1817.0,1
+245,48922,2025-11-15,Switzerland,Sweden,Switzerland,Sweden,4,1,FIFA World Cup qualification,0,40.0,1.75,1918.0,1625.0,0.905705,0.094295,1.0,0.0,6.600624,7,-7,1925.0,1618.0,1
+246,48924,2025-11-15,Greece,Scotland,Greece,Scotland,3,2,FIFA World Cup qualification,0,40.0,1.0,1494.0,1801.0,0.232975,0.767025,1.0,0.0,30.680997,31,-31,1525.0,1770.0,1
+247,48925,2025-11-15,Turkey,Bulgaria,Turkey,Bulgaria,2,0,FIFA World Cup qualification,0,40.0,1.5,1898.0,1483.0,0.950948,0.049052,1.0,0.0,2.94312,3,-3,1901.0,1480.0,1
+248,48926,2025-11-15,Georgia,Spain,Georgia,Spain,0,4,FIFA World Cup qualification,0,40.0,1.875,1489.0,2185.0,0.031345,0.968655,0.0,1.0,-2.350879,-2,2,1487.0,2187.0,1
+249,48927,2025-11-15,Cyprus,Austria,Cyprus,Austria,0,2,FIFA World Cup qualification,0,40.0,1.5,1498.0,1834.0,0.20448,0.79552,0.0,1.0,-12.268806,-12,12,1486.0,1846.0,1
+250,48928,2025-11-15,Bosnia and Herzegovina,Romania,Bosnia and Herzegovina,Romania,3,1,FIFA World Cup qualification,0,40.0,1.5,1629.0,1524.0,0.764961,0.235039,1.0,0.0,14.102324,14,-14,1643.0,1510.0,1
+251,48930,2025-11-15,Kazakhstan,Belgium,Kazakhstan,Belgium,1,1,FIFA World Cup qualification,0,40.0,1.0,1496.0,1903.0,0.145887,0.854113,0.5,0.5,14.164534,14,-14,1510.0,1889.0,1
+252,48940,2025-11-16,Nigeria,DR Congo,Nigeria,Dem. Rep. of Congo,1,1,FIFA World Cup qualification,1,40.0,1.0,1509.0,1707.0,0.242361,0.757639,0.5,0.5,10.305567,10,-10,1519.0,1697.0,1
+253,48942,2025-11-16,Azerbaijan,France,Azerbaijan,France,1,3,FIFA World Cup qualification,0,40.0,1.5,1499.0,2052.0,0.068646,0.931354,0.0,1.0,-4.118756,-4,4,1495.0,2056.0,1
+254,48943,2025-11-16,Portugal,Armenia,Portugal,Armenia,9,1,FIFA World Cup qualification,0,40.0,2.375,1926.0,1492.0,0.955805,0.044195,1.0,0.0,4.19849,4,-4,1930.0,1488.0,1
+255,48946,2025-11-16,Italy,Norway,Italy,Norway,1,4,FIFA World Cup qualification,0,40.0,1.75,1500.0,1927.0,0.132118,0.867882,0.0,1.0,-9.248236,-9,9,1491.0,1936.0,1
+256,48947,2025-11-16,Albania,England,Albania,England,0,2,FIFA World Cup qualification,0,40.0,1.5,1517.0,2016.0,0.091386,0.908614,0.0,1.0,-5.483157,-5,5,1512.0,2021.0,1
+257,48953,2025-11-17,Qatar,Zimbabwe,Qatar,Zimbabwe,1,2,Friendly,0,20.0,1.0,1417.0,1502.0,0.521573,0.478427,0.0,1.0,-10.431467,-10,10,1407.0,1512.0,1
+258,48956,2025-11-17,Germany,Slovakia,Germany,Slovakia,6,0,FIFA World Cup qualification,0,40.0,2.125,1903.0,1552.0,0.930614,0.069386,1.0,0.0,5.897781,6,-6,1909.0,1546.0,1
+259,48958,2025-11-17,Netherlands,Lithuania,Netherlands,Lithuania,4,0,FIFA World Cup qualification,0,40.0,1.875,1932.0,1495.0,0.956529,0.043471,1.0,0.0,3.260314,3,-3,1935.0,1492.0,1
+260,48959,2025-11-17,Czech Republic,Gibraltar,Czech Republic,Gibraltar,6,0,FIFA World Cup qualification,0,40.0,2.125,1718.0,1497.0,0.863871,0.136129,1.0,0.0,11.570925,12,-12,1730.0,1485.0,1
+261,48960,2025-11-17,Montenegro,Croatia,Montenegro,Croatia,2,3,FIFA World Cup qualification,0,40.0,1.0,1478.0,1930.0,0.116472,0.883528,0.0,1.0,-4.658868,-5,5,1473.0,1935.0,1
+262,48961,2025-11-17,Cape Verde,Egypt,Cape Verde,Egypt,1,1,Al Ain International Cup,1,30.0,1.0,1640.0,1699.0,0.415899,0.584101,0.5,0.5,2.523029,3,-3,1643.0,1696.0,1
+263,48964,2025-11-18,Morocco,Uganda,Morocco,Uganda,4,0,Friendly,0,20.0,1.875,1849.0,1495.0,0.931721,0.068279,1.0,0.0,2.560456,3,-3,1852.0,1492.0,1
+264,48965,2025-11-18,Oman,Ivory Coast,Oman,Ivory Coast,0,2,Friendly,0,20.0,1.5,1500.0,1721.0,0.332582,0.667418,0.0,1.0,-9.977447,-10,10,1490.0,1731.0,1
+265,48966,2025-11-18,Saudi Arabia,Algeria,Saudi Arabia,Algeria,0,2,Friendly,0,20.0,1.5,1591.0,1767.0,0.392339,0.607661,0.0,1.0,-11.770168,-12,12,1579.0,1779.0,1
+266,48968,2025-11-18,Kenya,Senegal,Kenya,Senegal,0,8,Friendly,1,20.0,2.375,1491.0,1909.0,0.082701,0.917299,0.0,1.0,-3.928299,-4,4,1487.0,1913.0,1
+267,48970,2025-11-18,Japan,Bolivia,Japan,Bolivia,3,0,Kirin Cup,0,30.0,1.75,1903.0,1543.0,0.933886,0.066114,1.0,0.0,3.470988,3,-3,1906.0,1540.0,1
+268,48971,2025-11-18,Mali,Jordan,Mali,Jordan,3,2,Friendly,1,20.0,1.0,1486.0,1624.0,0.311226,0.688774,1.0,0.0,13.775471,14,-14,1500.0,1610.0,1
+269,48984,2025-11-18,Brazil,Tunisia,Brazil,Tunisia,1,1,Friendly,1,20.0,1.0,1978.0,1687.0,0.842259,0.157741,0.5,0.5,-6.845173,-7,7,1971.0,1694.0,1
+270,48985,2025-11-18,Canada,Venezuela,Canada,Venezuela,2,0,Friendly,1,20.0,1.5,1783.0,1505.0,0.83206,0.16794,1.0,0.0,5.038205,5,-5,1788.0,1500.0,1
+271,48987,2025-11-18,Colombia,Australia,Colombia,Australia,3,0,Friendly,1,20.0,1.75,2007.0,1793.0,0.774148,0.225852,1.0,0.0,7.904821,8,-8,2015.0,1785.0,1
+272,48989,2025-11-18,Ecuador,New Zealand,Ecuador,New Zealand,2,0,Friendly,1,20.0,1.5,1940.0,1528.0,0.914641,0.085359,1.0,0.0,2.560777,3,-3,1943.0,1525.0,1
+273,48991,2025-11-18,South Korea,Ghana,South Korea,Ghana,1,0,Friendly,0,20.0,1.0,1788.0,1573.0,0.859759,0.140241,1.0,0.0,2.80483,3,-3,1791.0,1570.0,1
+274,48992,2025-11-18,Mexico,Paraguay,Mexico,Paraguay,1,2,Friendly,1,20.0,1.0,1881.0,1817.0,0.591076,0.408924,0.0,1.0,-11.821512,-12,12,1869.0,1829.0,1
+275,48993,2025-11-18,United States,Uruguay,United States,Uruguay,5,1,Friendly,0,20.0,1.875,1738.0,1896.0,0.417298,0.582702,1.0,0.0,21.851321,22,-22,1760.0,1874.0,1
+276,48994,2025-11-18,Iraq,United Arab Emirates,Iraq,United Arab Emirates,2,1,FIFA World Cup qualification,0,40.0,1.0,1673.0,1486.0,0.839175,0.160825,1.0,0.0,6.432987,6,-6,1679.0,1480.0,1
+277,48995,2025-11-18,Kosovo,Switzerland,Kosovo,Switzerland,1,1,FIFA World Cup qualification,0,40.0,1.0,1567.0,1925.0,0.184648,0.815352,0.5,0.5,12.614073,13,-13,1580.0,1912.0,1
+278,48996,2025-11-18,Sweden,Slovenia,Sweden,Slovenia,1,1,FIFA World Cup qualification,0,40.0,1.0,1618.0,1527.0,0.750163,0.249837,0.5,0.5,-10.006539,-10,10,1608.0,1537.0,1
+279,48997,2025-11-18,Scotland,Denmark,Scotland,Denmark,4,2,FIFA World Cup qualification,0,40.0,1.5,1770.0,1510.0,0.888184,0.111816,1.0,0.0,6.708946,7,-7,1777.0,1503.0,1
+280,48999,2025-11-18,Spain,Turkey,Spain,Turkey,2,2,FIFA World Cup qualification,0,40.0,1.0,2187.0,1901.0,0.902207,0.097793,0.5,0.5,-16.088293,-16,16,2171.0,1917.0,1
+281,49001,2025-11-18,Austria,Bosnia and Herzegovina,Austria,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,0,40.0,1.0,1846.0,1643.0,0.851221,0.148779,0.5,0.5,-14.048832,-14,14,1832.0,1657.0,1
+282,49004,2025-11-18,Belgium,Liechtenstein,Belgium,Liechtenstein,7,0,FIFA World Cup qualification,0,40.0,2.25,1889.0,1477.0,0.950136,0.049864,1.0,0.0,4.487747,4,-4,1893.0,1473.0,1
+283,49008,2025-11-18,Iran,Uzbekistan,Iran,Uzbekistan,0,0,Al Ain International Cup,1,30.0,1.0,1764.0,1745.0,0.527316,0.472684,0.5,0.5,-0.819479,-1,1,1763.0,1746.0,1
+284,49010,2025-11-18,Panama,El Salvador,Panama,El Salvador,3,0,FIFA World Cup qualification,0,40.0,1.75,1744.0,1479.0,0.891011,0.108989,1.0,0.0,7.629236,8,-8,1752.0,1471.0,1
+285,49011,2025-11-18,Jamaica,Curaçao,Jamaica,Curaçao,0,0,FIFA World Cup qualification,0,40.0,1.0,1469.0,1569.0,0.5,0.5,0.5,0.5,0.0,0,0,1469.0,1569.0,1
+286,49014,2025-11-18,Haiti,Nicaragua,Haiti,Nicaragua,2,0,FIFA World Cup qualification,1,40.0,1.5,1530.0,1446.0,0.618584,0.381416,1.0,0.0,22.884953,23,-23,1553.0,1423.0,1
+287,49026,2025-12-01,Tunisia,Syria,Tunisia,Syria,0,1,Arab Cup,1,30.0,1.0,1694.0,1500.0,0.753386,0.246614,0.0,1.0,-22.601582,-23,23,1671.0,1523.0,1
+288,49027,2025-12-01,Qatar,Palestine,Qatar,Palestine,0,1,Arab Cup,0,30.0,1.0,1407.0,1500.0,0.510072,0.489928,0.0,1.0,-15.302173,-15,15,1392.0,1515.0,1
+289,49028,2025-12-02,Morocco,Comoros,Morocco,Comoros,3,1,Arab Cup,1,30.0,1.5,1852.0,1489.0,0.889888,0.110112,1.0,0.0,4.955047,5,-5,1857.0,1484.0,1
+290,49029,2025-12-02,Saudi Arabia,Oman,Saudi Arabia,Oman,2,1,Arab Cup,1,30.0,1.0,1579.0,1490.0,0.625351,0.374649,1.0,0.0,11.239458,11,-11,1590.0,1479.0,1
+291,49030,2025-12-02,Egypt,Kuwait,Egypt,Kuwait,1,1,Arab Cup,1,30.0,1.0,1696.0,1488.0,0.768052,0.231948,0.5,0.5,-8.04156,-8,8,1688.0,1496.0,1
+292,49031,2025-12-03,Jordan,United Arab Emirates,Jordan,United Arab Emirates,2,1,Arab Cup,1,30.0,1.0,1610.0,1480.0,0.678817,0.321183,1.0,0.0,9.635492,10,-10,1620.0,1470.0,1
+293,49032,2025-12-03,Algeria,Sudan,Algeria,Sudan,0,0,Arab Cup,1,30.0,1.0,1779.0,1491.0,0.839951,0.160049,0.5,0.5,-10.198521,-10,10,1769.0,1501.0,1
+294,49033,2025-12-03,Iraq,Bahrain,Iraq,Bahrain,2,1,Arab Cup,1,30.0,1.0,1679.0,1499.0,0.738109,0.261891,1.0,0.0,7.856729,8,-8,1687.0,1491.0,1
+295,49034,2025-12-04,Palestine,Tunisia,Palestine,Tunisia,2,2,Arab Cup,1,30.0,1.0,1515.0,1671.0,0.28946,0.71054,0.5,0.5,6.3162,6,-6,1521.0,1665.0,1
+296,49035,2025-12-04,Qatar,Syria,Qatar,Syria,1,1,Arab Cup,0,30.0,1.0,1392.0,1523.0,0.455505,0.544495,0.5,0.5,1.334837,1,-1,1393.0,1522.0,1
+297,49036,2025-12-05,Oman,Morocco,Oman,Morocco,0,0,Arab Cup,1,30.0,1.0,1479.0,1857.0,0.101932,0.898068,0.5,0.5,11.942048,12,-12,1491.0,1845.0,1
+298,49037,2025-12-05,Comoros,Saudi Arabia,Comoros,Saudi Arabia,1,3,Arab Cup,1,30.0,1.5,1484.0,1590.0,0.352017,0.647983,0.0,1.0,-15.840764,-16,16,1468.0,1606.0,1
+299,49038,2025-12-06,Kuwait,Jordan,Kuwait,Jordan,1,3,Arab Cup,1,30.0,1.5,1496.0,1620.0,0.328759,0.671241,0.0,1.0,-14.794174,-15,15,1481.0,1635.0,1
+300,49039,2025-12-06,United Arab Emirates,Egypt,United Arab Emirates,Egypt,1,1,Arab Cup,1,30.0,1.0,1470.0,1688.0,0.221852,0.778148,0.5,0.5,8.344454,8,-8,1478.0,1680.0,1
+301,49040,2025-12-06,Bahrain,Algeria,Bahrain,Algeria,1,5,Arab Cup,1,30.0,1.875,1491.0,1769.0,0.16794,0.83206,0.0,1.0,-9.446634,-9,9,1482.0,1778.0,1
+302,49041,2025-12-06,Sudan,Iraq,Sudan,Iraq,0,2,Arab Cup,1,30.0,1.5,1501.0,1687.0,0.25527,0.74473,0.0,1.0,-11.487132,-11,11,1490.0,1698.0,1
+303,49042,2025-12-07,Qatar,Tunisia,Qatar,Tunisia,0,3,Arab Cup,0,30.0,1.75,1393.0,1665.0,0.27089,0.72911,0.0,1.0,-14.221727,-14,14,1379.0,1679.0,1
+304,49044,2025-12-08,Morocco,Saudi Arabia,Morocco,Saudi Arabia,1,0,Arab Cup,1,30.0,1.0,1845.0,1606.0,0.798315,0.201685,1.0,0.0,6.050558,6,-6,1851.0,1600.0,1
+305,49046,2025-12-09,Egypt,Jordan,Egypt,Jordan,0,3,Arab Cup,1,30.0,1.75,1680.0,1635.0,0.5644,0.4356,0.0,1.0,-29.631026,-30,30,1650.0,1665.0,1
+306,49048,2025-12-09,Algeria,Iraq,Algeria,Iraq,2,0,Arab Cup,1,30.0,1.5,1778.0,1698.0,0.613137,0.386863,1.0,0.0,17.408843,17,-17,1795.0,1681.0,1
+307,49050,2025-12-11,Morocco,Syria,Morocco,Syria,1,0,Arab Cup,1,30.0,1.0,1851.0,1522.0,0.869197,0.130803,1.0,0.0,3.924094,4,-4,1855.0,1518.0,1
+308,49051,2025-12-11,Palestine,Saudi Arabia,Palestine,Saudi Arabia,1,2,Arab Cup,1,30.0,1.0,1521.0,1600.0,0.388229,0.611771,0.0,1.0,-11.646885,-12,12,1509.0,1612.0,1
+309,49052,2025-12-12,Jordan,Iraq,Jordan,Iraq,1,0,Arab Cup,1,30.0,1.0,1665.0,1681.0,0.47699,0.52301,1.0,0.0,15.690288,16,-16,1681.0,1665.0,1
+310,49053,2025-12-12,Algeria,United Arab Emirates,Algeria,United Arab Emirates,1,1,Arab Cup,1,30.0,1.0,1795.0,1478.0,0.861141,0.138859,0.5,0.5,-10.834228,-11,11,1784.0,1489.0,1
+311,49054,2025-12-15,Morocco,United Arab Emirates,Morocco,United Arab Emirates,3,0,Arab Cup,1,30.0,1.75,1855.0,1489.0,0.891569,0.108431,1.0,0.0,5.692645,6,-6,1861.0,1483.0,1
+312,49055,2025-12-15,Saudi Arabia,Jordan,Saudi Arabia,Jordan,0,1,Arab Cup,1,30.0,1.0,1612.0,1681.0,0.401986,0.598014,0.0,1.0,-12.059587,-12,12,1600.0,1693.0,1
+313,49056,2025-12-18,Jordan,Morocco,Jordan,Morocco,2,3,Arab Cup,1,30.0,1.0,1693.0,1861.0,0.275462,0.724538,0.0,1.0,-8.263853,-8,8,1685.0,1869.0,1
+314,49057,2025-12-21,Morocco,Comoros,Morocco,Comoros,2,0,African Cup of Nations,0,50.0,1.5,1869.0,1468.0,0.947049,0.052951,1.0,0.0,3.97131,4,-4,1873.0,1464.0,1
+315,49059,2025-12-22,South Africa,Angola,South Africa,Angola,2,1,African Cup of Nations,1,50.0,1.0,1572.0,1498.0,0.604913,0.395087,1.0,0.0,19.754355,20,-20,1592.0,1478.0,1
+316,49060,2025-12-22,Egypt,Zimbabwe,Egypt,Zimbabwe,2,1,African Cup of Nations,1,50.0,1.0,1650.0,1512.0,0.688774,0.311226,1.0,0.0,15.561322,16,-16,1666.0,1496.0,1
+317,49062,2025-12-23,Tunisia,Uganda,Tunisia,Uganda,3,1,African Cup of Nations,1,50.0,1.5,1679.0,1492.0,0.745823,0.254177,1.0,0.0,19.063259,19,-19,1698.0,1473.0,1
+318,49063,2025-12-23,DR Congo,Benin,Dem. Rep. of Congo,Benin,1,0,African Cup of Nations,1,50.0,1.0,1697.0,1498.0,0.758695,0.241305,1.0,0.0,12.065269,12,-12,1709.0,1486.0,1
+319,49064,2025-12-23,Senegal,Botswana,Senegal,Botswana,3,0,African Cup of Nations,1,50.0,1.75,1913.0,1493.0,0.918168,0.081832,1.0,0.0,7.160285,7,-7,1920.0,1486.0,1
+320,49066,2025-12-24,Algeria,Sudan,Algeria,Sudan,3,0,African Cup of Nations,1,50.0,1.75,1784.0,1490.0,0.84454,0.15546,1.0,0.0,13.602791,14,-14,1798.0,1476.0,1
+321,49067,2025-12-24,Ivory Coast,Mozambique,Ivory Coast,Mozambique,1,0,African Cup of Nations,1,50.0,1.0,1731.0,1489.0,0.801081,0.198919,1.0,0.0,9.945953,10,-10,1741.0,1479.0,1
+322,49070,2025-12-26,Morocco,Mali,Morocco,Mali,1,1,African Cup of Nations,0,50.0,1.0,1873.0,1500.0,0.938359,0.061641,0.5,0.5,-21.917954,-22,22,1851.0,1522.0,1
+323,49072,2025-12-26,Egypt,South Africa,Egypt,South Africa,1,0,African Cup of Nations,1,50.0,1.0,1666.0,1592.0,0.604913,0.395087,1.0,0.0,19.754355,20,-20,1686.0,1572.0,1
+324,49074,2025-12-27,Nigeria,Tunisia,Nigeria,Tunisia,3,2,African Cup of Nations,1,50.0,1.0,1519.0,1698.0,0.263005,0.736995,1.0,0.0,36.849738,37,-37,1556.0,1661.0,1
+325,49076,2025-12-27,Senegal,DR Congo,Senegal,Dem. Rep. of Congo,1,1,African Cup of Nations,1,50.0,1.0,1920.0,1709.0,0.771114,0.228886,0.5,0.5,-13.555713,-14,14,1906.0,1723.0,1
+326,49078,2025-12-28,Algeria,Burkina Faso,Algeria,Burkina Faso,1,0,African Cup of Nations,1,50.0,1.0,1798.0,1506.0,0.843022,0.156978,1.0,0.0,7.848902,8,-8,1806.0,1498.0,1
+327,49080,2025-12-28,Ivory Coast,Cameroon,Ivory Coast,Cameroon,1,1,African Cup of Nations,1,50.0,1.0,1741.0,1482.0,0.816217,0.183783,0.5,0.5,-15.810845,-16,16,1725.0,1498.0,1
+328,49081,2025-12-29,Morocco,Zambia,Morocco,Zambia,3,0,African Cup of Nations,0,50.0,1.75,1851.0,1480.0,0.93769,0.06231,1.0,0.0,5.452143,5,-5,1856.0,1475.0,1
+329,49083,2025-12-29,Angola,Egypt,Angola,Egypt,0,0,African Cup of Nations,1,50.0,1.0,1478.0,1686.0,0.231948,0.768052,0.5,0.5,13.4026,13,-13,1491.0,1673.0,1
+330,49084,2025-12-29,Zimbabwe,South Africa,Zimbabwe,South Africa,2,3,African Cup of Nations,1,50.0,1.0,1496.0,1572.0,0.392339,0.607661,0.0,1.0,-19.616947,-20,20,1476.0,1592.0,1
+331,49086,2025-12-30,Tanzania,Tunisia,Tanzania,Tunisia,1,1,African Cup of Nations,1,50.0,1.0,1495.0,1661.0,0.277765,0.722235,0.5,0.5,11.111727,11,-11,1506.0,1650.0,1
+332,49087,2025-12-30,Benin,Senegal,Benin,Senegal,0,3,African Cup of Nations,1,50.0,1.75,1486.0,1906.0,0.081832,0.918168,0.0,1.0,-7.160285,-7,7,1479.0,1913.0,1
+333,49088,2025-12-30,Botswana,DR Congo,Botswana,Dem. Rep. of Congo,0,3,African Cup of Nations,1,50.0,1.75,1486.0,1723.0,0.203545,0.796455,0.0,1.0,-17.810214,-18,18,1468.0,1741.0,1
+334,49089,2025-12-31,Equatorial Guinea,Algeria,Equatorial Guinea,Algeria,1,3,African Cup of Nations,1,50.0,1.5,1482.0,1806.0,0.13411,0.86589,0.0,1.0,-10.058281,-10,10,1472.0,1816.0,1
+335,49091,2025-12-31,Gabon,Ivory Coast,Gabon,Ivory Coast,2,3,African Cup of Nations,1,50.0,1.0,1506.0,1725.0,0.220859,0.779141,0.0,1.0,-11.042969,-11,11,1495.0,1736.0,1
+336,49093,2026-01-03,Senegal,Sudan,Senegal,Sudan,3,1,African Cup of Nations,1,50.0,1.5,1913.0,1476.0,0.925226,0.074774,1.0,0.0,5.608017,6,-6,1919.0,1470.0,1
+337,49094,2026-01-03,Mali,Tunisia,Mali,Tunisia,1,1,African Cup of Nations,1,50.0,1.0,1522.0,1650.0,0.323698,0.676302,0.5,0.5,8.815083,9,-9,1531.0,1641.0,1
+338,49095,2026-01-04,Morocco,Tanzania,Morocco,Tanzania,1,0,African Cup of Nations,0,50.0,1.0,1856.0,1506.0,0.930242,0.069758,1.0,0.0,3.487914,3,-3,1859.0,1503.0,1
+339,49096,2026-01-04,South Africa,Cameroon,South Africa,Cameroon,1,2,African Cup of Nations,1,50.0,1.0,1592.0,1498.0,0.63207,0.36793,0.0,1.0,-31.603501,-32,32,1560.0,1530.0,1
+340,49097,2026-01-05,Egypt,Benin,Egypt,Benin,3,1,African Cup of Nations,1,50.0,1.5,1673.0,1479.0,0.753386,0.246614,1.0,0.0,18.496044,18,-18,1691.0,1461.0,1
+341,49099,2026-01-06,Algeria,DR Congo,Algeria,Dem. Rep. of Congo,1,0,African Cup of Nations,1,50.0,1.0,1816.0,1741.0,0.606288,0.393712,1.0,0.0,19.685609,20,-20,1836.0,1721.0,1
+342,49100,2026-01-06,Ivory Coast,Burkina Faso,Ivory Coast,Burkina Faso,3,0,African Cup of Nations,1,50.0,1.75,1736.0,1498.0,0.797386,0.202614,1.0,0.0,17.728698,18,-18,1754.0,1480.0,1
+343,49101,2026-01-09,Mali,Senegal,Mali,Senegal,0,1,African Cup of Nations,1,50.0,1.0,1531.0,1919.0,0.096782,0.903218,0.0,1.0,-4.83908,-5,5,1526.0,1924.0,1
+344,49102,2026-01-09,Morocco,Cameroon,Morocco,Cameroon,2,0,African Cup of Nations,0,50.0,1.5,1859.0,1530.0,0.921977,0.078023,1.0,0.0,5.851693,6,-6,1865.0,1524.0,1
+345,49103,2026-01-10,Algeria,Nigeria,Algeria,Nigeria,0,2,African Cup of Nations,1,50.0,1.5,1836.0,1556.0,0.833662,0.166338,0.0,1.0,-62.524685,-63,63,1773.0,1619.0,1
+346,49104,2026-01-10,Egypt,Ivory Coast,Egypt,Ivory Coast,3,2,African Cup of Nations,1,50.0,1.0,1691.0,1754.0,0.410316,0.589684,1.0,0.0,29.484175,29,-29,1720.0,1725.0,1
+347,49105,2026-01-14,Senegal,Egypt,Senegal,Egypt,1,0,African Cup of Nations,1,50.0,1.0,1924.0,1720.0,0.763925,0.236075,1.0,0.0,11.803765,12,-12,1936.0,1708.0,1
+348,49106,2026-01-14,Morocco,Nigeria,Morocco,Nigeria,0,0,African Cup of Nations,0,50.0,1.0,1865.0,1619.0,0.879927,0.120073,0.5,0.5,-18.996334,-19,19,1846.0,1638.0,1
+349,49107,2026-01-17,Egypt,Nigeria,Egypt,Nigeria,0,0,African Cup of Nations,1,50.0,1.0,1708.0,1638.0,0.599397,0.400603,0.5,0.5,-4.96984,-5,5,1703.0,1643.0,1
+350,49108,2026-01-18,Morocco,Senegal,Morocco,Senegal,3,0,African Cup of Nations,0,50.0,1.75,1846.0,1936.0,0.514387,0.485613,1.0,0.0,42.491121,42,-42,1888.0,1894.0,1
+351,49109,2026-01-18,Bolivia,Panama,Bolivia,Panama,1,1,Friendly,0,20.0,1.0,1540.0,1752.0,0.344179,0.655821,0.5,0.5,3.11641,3,-3,1543.0,1749.0,1
+352,49111,2026-01-22,Panama,Mexico,Panama,Mexico,0,1,Friendly,0,20.0,1.0,1749.0,1869.0,0.471249,0.528751,0.0,1.0,-9.424989,-9,9,1740.0,1878.0,1
+353,49112,2026-01-25,Bolivia,Mexico,Bolivia,Mexico,0,1,Friendly,0,20.0,1.0,1543.0,1878.0,0.205418,0.794582,0.0,1.0,-4.108362,-4,4,1539.0,1882.0,1
+354,49113,2026-01-26,Uzbekistan,China,Uzbekistan,China,2,2,Friendly,1,20.0,1.0,1746.0,1500.0,0.804725,0.195275,0.5,0.5,-6.094494,-6,6,1740.0,1506.0,1
+355,49114,2026-02-25,Mexico,Iceland,Mexico,Iceland,4,0,Friendly,0,20.0,1.875,1882.0,1516.0,0.935987,0.064013,1.0,0.0,2.400496,2,-2,1884.0,1514.0,1
+356,49116,2026-03-25,Bermuda,DR Congo,Bermuda,Dem. Rep. of Congo,0,2,Friendly,1,20.0,1.5,1431.0,1721.0,0.158508,0.841492,0.0,1.0,-4.755229,-5,5,1426.0,1726.0,1
+357,49121,2026-03-26,Brazil,France,Brazil,France,1,2,Friendly,1,20.0,1.0,1971.0,2056.0,0.380059,0.619941,0.0,1.0,-7.601173,-8,8,1963.0,2064.0,1
+358,49122,2026-03-26,Colombia,Croatia,Colombia,Croatia,1,2,Friendly,1,20.0,1.0,2015.0,1935.0,0.613137,0.386863,0.0,1.0,-12.262736,-12,12,2003.0,1947.0,1
+359,49130,2026-03-26,Wales,Bosnia and Herzegovina,Wales,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,0,40.0,1.0,1483.0,1657.0,0.395087,0.604913,0.5,0.5,4.196516,4,-4,1487.0,1653.0,1
+360,49132,2026-03-26,Ukraine,Sweden,Ukraine,Sweden,1,3,FIFA World Cup qualification,1,40.0,1.5,1513.0,1608.0,0.366592,0.633408,0.0,1.0,-21.995538,-22,22,1491.0,1630.0,1
+361,49134,2026-03-26,Turkey,Romania,Turkey,Romania,1,0,FIFA World Cup qualification,0,40.0,1.0,1917.0,1510.0,0.948755,0.051245,1.0,0.0,2.049812,2,-2,1919.0,1508.0,1
+362,49135,2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,Republic of Ireland,2,2,FIFA World Cup qualification,0,40.0,1.0,1730.0,1553.0,0.831254,0.168746,0.5,0.5,-13.250157,-13,13,1717.0,1566.0,1
+363,49145,2026-03-27,Algeria,Guatemala,Algeria,Guatemala,7,0,Friendly,1,20.0,2.25,1773.0,1501.0,0.827178,0.172822,1.0,0.0,7.776989,8,-8,1781.0,1493.0,1
+364,49146,2026-03-27,Argentina,Mauritania,Argentina,Mauritania,2,1,Friendly,0,20.0,1.0,2082.0,1503.0,0.980327,0.019673,1.0,0.0,0.39346,0,0,2082.0,1503.0,1
+365,49147,2026-03-27,Austria,Ghana,Austria,Ghana,5,1,Friendly,0,20.0,1.875,1832.0,1570.0,0.889323,0.110677,1.0,0.0,4.150406,4,-4,1836.0,1566.0,1
+366,49148,2026-03-27,England,Uruguay,England,Uruguay,1,1,Friendly,0,20.0,1.0,2021.0,1874.0,0.805628,0.194372,0.5,0.5,-6.112554,-6,6,2015.0,1880.0,1
+367,49149,2026-03-27,Greece,Paraguay,Greece,Paraguay,0,1,Friendly,0,20.0,1.0,1525.0,1829.0,0.236075,0.763925,0.0,1.0,-4.721506,-5,5,1520.0,1834.0,1
+368,49154,2026-03-27,Morocco,Ecuador,Morocco,Ecuador,1,1,Friendly,1,20.0,1.0,1888.0,1943.0,0.421503,0.578497,0.5,0.5,1.569935,2,-2,1890.0,1941.0,1
+369,49155,2026-03-27,Netherlands,Norway,Netherlands,Norway,2,1,Friendly,0,20.0,1.0,1935.0,1936.0,0.638738,0.361262,1.0,0.0,7.225245,7,-7,1942.0,1929.0,1
+370,49156,2026-03-27,Saudi Arabia,Egypt,Saudi Arabia,Egypt,0,4,Friendly,0,20.0,1.875,1600.0,1703.0,0.495683,0.504317,0.0,1.0,-18.588104,-19,19,1581.0,1722.0,1
+371,49157,2026-03-27,South Africa,Panama,South Africa,Panama,1,1,Friendly,0,20.0,1.0,1560.0,1740.0,0.386863,0.613137,0.5,0.5,2.262736,2,-2,1562.0,1738.0,1
+372,49158,2026-03-27,Spain,Serbia,Spain,Serbia,3,0,Friendly,0,20.0,1.75,2171.0,1491.0,0.988904,0.011096,1.0,0.0,0.388349,0,0,2171.0,1491.0,1
+373,49160,2026-03-27,Switzerland,Germany,Switzerland,Germany,3,4,Friendly,0,20.0,1.0,1912.0,1909.0,0.644034,0.355966,0.0,1.0,-12.880677,-13,13,1899.0,1922.0,1
+374,49161,2026-03-27,Costa Rica,Jordan,Costa Rica,Jordan,2,2,Friendly,1,20.0,1.0,1495.0,1685.0,0.250917,0.749083,0.5,0.5,4.981661,5,-5,1500.0,1680.0,1
+375,49162,2026-03-27,Iran,Nigeria,Iran,Nigeria,1,2,Friendly,1,20.0,1.0,1763.0,1643.0,0.666139,0.333861,0.0,1.0,-13.322788,-13,13,1750.0,1656.0,1
+376,49163,2026-03-27,China,Curaçao,China,Curaçao,2,0,FIFA Series,1,30.0,1.5,1506.0,1569.0,0.410316,0.589684,1.0,0.0,26.535758,27,-27,1533.0,1542.0,1
+377,49164,2026-03-27,Australia,Cameroon,Australia,Cameroon,1,0,FIFA Series,0,30.0,1.0,1785.0,1524.0,0.888755,0.111245,1.0,0.0,3.337361,3,-3,1788.0,1521.0,1
+378,49168,2026-03-27,Chile,Cape Verde,Chile,Cape Verde,4,2,FIFA Series,1,30.0,1.5,1512.0,1643.0,0.319929,0.680071,1.0,0.0,30.60318,31,-31,1543.0,1612.0,1
+379,49169,2026-03-27,New Zealand,Finland,New Zealand,Finland,0,2,FIFA Series,0,30.0,1.5,1525.0,1496.0,0.677561,0.322439,0.0,1.0,-30.490226,-30,30,1495.0,1526.0,1
+380,49173,2026-03-27,Uzbekistan,Gabon,Uzbekistan,Gabon,3,1,FIFA Series,0,30.0,1.5,1740.0,1495.0,0.879317,0.120683,1.0,0.0,5.430728,5,-5,1745.0,1490.0,1
+381,49177,2026-03-28,Canada,Iceland,Canada,Iceland,2,2,Friendly,0,20.0,1.0,1788.0,1514.0,0.895941,0.104059,0.5,0.5,-7.918821,-8,8,1780.0,1522.0,1
+382,49178,2026-03-28,Haiti,Tunisia,Haiti,Tunisia,0,1,Friendly,1,20.0,1.0,1553.0,1641.0,0.375998,0.624002,0.0,1.0,-7.519965,-8,8,1545.0,1649.0,1
+383,49180,2026-03-28,Ivory Coast,South Korea,Ivory Coast,South Korea,4,0,Friendly,1,20.0,1.875,1725.0,1791.0,0.406145,0.593855,1.0,0.0,22.269577,22,-22,1747.0,1769.0,1
+384,49181,2026-03-28,Mexico,Portugal,Mexico,Portugal,0,0,Friendly,0,20.0,1.0,1884.0,1930.0,0.577092,0.422908,0.5,0.5,-1.54185,-2,2,1882.0,1932.0,1
+385,49183,2026-03-28,Scotland,Japan,Scotland,Japan,0,1,Friendly,0,20.0,1.0,1777.0,1906.0,0.458362,0.541638,0.0,1.0,-9.167246,-9,9,1768.0,1915.0,1
+386,49184,2026-03-28,Senegal,Peru,Senegal,Peru,2,0,Friendly,1,20.0,1.5,1894.0,1502.0,0.905213,0.094787,1.0,0.0,2.843622,3,-3,1897.0,1499.0,1
+387,49185,2026-03-28,United States,Belgium,United States,Belgium,2,5,Friendly,0,20.0,1.75,1760.0,1893.0,0.452651,0.547349,0.0,1.0,-15.842802,-16,16,1744.0,1909.0,1
+388,49192,2026-03-29,Colombia,France,Colombia,France,1,3,Friendly,1,20.0,1.5,2003.0,2064.0,0.413105,0.586895,0.0,1.0,-12.393149,-12,12,1991.0,2076.0,1
+389,49203,2026-03-30,Germany,Ghana,Germany,Ghana,2,1,Friendly,0,20.0,1.0,1922.0,1566.0,0.93245,0.06755,1.0,0.0,1.351001,1,-1,1923.0,1565.0,1
+390,49207,2026-03-30,Cape Verde,Finland,Cape Verde,Finland,1,1,FIFA Series,1,30.0,1.0,1612.0,1526.0,0.621297,0.378703,0.5,0.5,-3.638902,-4,4,1608.0,1530.0,1
+391,49208,2026-03-30,New Zealand,Chile,New Zealand,Chile,4,1,FIFA Series,0,30.0,1.75,1495.0,1543.0,0.57428,0.42572,1.0,0.0,22.350289,22,-22,1517.0,1521.0,1
+392,49212,2026-03-30,Uzbekistan,Venezuela,Uzbekistan,Venezuela,0,0,FIFA Series,0,30.0,1.0,1745.0,1500.0,0.879317,0.120683,0.5,0.5,-11.379515,-11,11,1734.0,1511.0,1
+393,49215,2026-03-31,Algeria,Uruguay,Algeria,Uruguay,0,0,Friendly,1,20.0,1.0,1781.0,1880.0,0.361262,0.638738,0.5,0.5,2.774755,3,-3,1784.0,1877.0,1
+394,49216,2026-03-31,Argentina,Zambia,Argentina,Zambia,5,0,Friendly,0,20.0,2.0,2082.0,1475.0,0.983206,0.016794,1.0,0.0,0.671745,1,-1,2083.0,1474.0,1
+395,49217,2026-03-31,Austria,South Korea,Austria,South Korea,1,0,Friendly,0,20.0,1.0,1836.0,1769.0,0.723388,0.276612,1.0,0.0,5.532243,6,-6,1842.0,1763.0,1
+396,49219,2026-03-31,Brazil,Croatia,Brazil,Croatia,3,1,Friendly,1,20.0,1.5,1963.0,1947.0,0.52301,0.47699,1.0,0.0,14.309712,14,-14,1977.0,1933.0,1
+397,49221,2026-03-31,Canada,Tunisia,Canada,Tunisia,0,0,Friendly,0,20.0,1.0,1780.0,1649.0,0.790798,0.209202,0.5,0.5,-5.815962,-6,6,1774.0,1655.0,1
+398,49222,2026-03-31,Costa Rica,Iran,Costa Rica,Iran,0,5,Friendly,1,20.0,2.0,1500.0,1750.0,0.191682,0.808318,0.0,1.0,-7.667293,-8,8,1492.0,1758.0,1
+399,49223,2026-03-31,England,Japan,England,Japan,0,1,Friendly,0,20.0,1.0,2015.0,1915.0,0.759747,0.240253,0.0,1.0,-15.194939,-15,15,2000.0,1930.0,1
+400,49225,2026-03-31,Haiti,Iceland,Haiti,Iceland,1,1,Friendly,1,20.0,1.0,1545.0,1522.0,0.533051,0.466949,0.5,0.5,-0.661028,-1,1,1544.0,1523.0,1
+401,49227,2026-03-31,Ivory Coast,Scotland,Ivory Coast,Scotland,1,0,Friendly,1,20.0,1.0,1747.0,1768.0,0.469815,0.530185,1.0,0.0,10.603694,11,-11,1758.0,1757.0,1
+402,49228,2026-03-31,Jordan,Nigeria,Jordan,Nigeria,2,2,Friendly,1,20.0,1.0,1680.0,1656.0,0.534484,0.465516,0.5,0.5,-0.689679,-1,1,1679.0,1657.0,1
+403,49231,2026-03-31,Mexico,Belgium,Mexico,Belgium,1,1,Friendly,1,20.0,1.0,1882.0,1909.0,0.461222,0.538778,0.5,0.5,0.775562,1,-1,1883.0,1908.0,1
+404,49233,2026-03-31,Morocco,Paraguay,Morocco,Paraguay,2,1,Friendly,1,20.0,1.0,1890.0,1834.0,0.5799,0.4201,1.0,0.0,8.402005,8,-8,1898.0,1826.0,1
+405,49234,2026-03-31,Netherlands,Ecuador,Netherlands,Ecuador,1,1,Friendly,0,20.0,1.0,1942.0,1941.0,0.64139,0.35861,0.5,0.5,-2.827802,-3,3,1939.0,1944.0,1
+406,49236,2026-03-31,Norway,Switzerland,Norway,Switzerland,0,0,Friendly,0,20.0,1.0,1929.0,1899.0,0.678817,0.321183,0.5,0.5,-3.576338,-4,4,1925.0,1903.0,1
+407,49241,2026-03-31,Senegal,Gambia,Senegal,Gambia,3,1,Friendly,0,20.0,1.5,1897.0,1500.0,0.945883,0.054117,1.0,0.0,1.623523,2,-2,1899.0,1498.0,1
+408,49242,2026-03-31,Serbia,Saudi Arabia,Serbia,Saudi Arabia,2,1,Friendly,0,20.0,1.0,1491.0,1581.0,0.514387,0.485613,1.0,0.0,9.712256,10,-10,1501.0,1571.0,1
+409,49244,2026-03-31,South Africa,Panama,South Africa,Panama,1,2,Friendly,0,20.0,1.0,1562.0,1738.0,0.392339,0.607661,0.0,1.0,-7.846779,-8,8,1554.0,1746.0,1
+410,49245,2026-03-31,Spain,Egypt,Spain,Egypt,0,0,Friendly,0,20.0,1.0,2171.0,1722.0,0.959313,0.040687,0.5,0.5,-9.186252,-9,9,2162.0,1731.0,1
+411,49247,2026-03-31,United States,Portugal,United States,Portugal,0,2,Friendly,0,20.0,1.5,1744.0,1932.0,0.375998,0.624002,0.0,1.0,-11.279947,-11,11,1733.0,1943.0,1
+412,49249,2026-03-31,DR Congo,Jamaica,Dem. Rep. of Congo,Jamaica,1,0,FIFA World Cup qualification,1,40.0,1.0,1726.0,1469.0,0.814484,0.185516,1.0,0.0,7.420656,7,-7,1733.0,1462.0,1
+413,49250,2026-03-31,Iraq,Bolivia,Iraq,Bolivia,2,1,FIFA World Cup qualification,1,40.0,1.0,1665.0,1539.0,0.673776,0.326224,1.0,0.0,13.048952,13,-13,1678.0,1526.0,1
+414,49251,2026-03-31,Bosnia and Herzegovina,Italy,Bosnia and Herzegovina,Italy,1,1,FIFA World Cup qualification,0,40.0,1.0,1653.0,1491.0,0.818793,0.181207,0.5,0.5,-12.751732,-13,13,1640.0,1504.0,1
+415,49252,2026-03-31,Sweden,Poland,Sweden,Poland,3,2,FIFA World Cup qualification,0,40.0,1.0,1630.0,1540.0,0.749083,0.250917,1.0,0.0,10.036677,10,-10,1640.0,1530.0,1
+416,49253,2026-03-31,Kosovo,Turkey,Kosovo,Turkey,0,1,FIFA World Cup qualification,0,40.0,1.0,1580.0,1919.0,0.201685,0.798315,0.0,1.0,-8.06741,-8,8,1572.0,1927.0,1
+417,49254,2026-03-31,Czech Republic,Denmark,Czech Republic,Denmark,2,2,FIFA World Cup qualification,0,40.0,1.0,1717.0,1503.0,0.859063,0.140937,0.5,0.5,-14.36252,-14,14,1703.0,1517.0,1
+418,49256,2026-03-31,Australia,Curaçao,Australia,Curaçao,5,1,FIFA Series,0,30.0,1.875,1788.0,1542.0,0.879927,0.120073,1.0,0.0,6.754124,7,-7,1795.0,1535.0,1
+419,49259,2026-05-22,Mexico,Ghana,Mexico,Ghana,2,0,Friendly,0,20.0,1.5,1883.0,1565.0,0.917299,0.082701,1.0,0.0,2.481031,2,-2,1885.0,1563.0,1
+420,49260,2026-05-26,Morocco,Burundi,Morocco,Burundi,5,0,Friendly,0,20.0,2.0,1898.0,1494.0,0.947909,0.052091,1.0,0.0,2.083658,2,-2,1900.0,1492.0,1
+421,49263,2026-05-28,Republic of Ireland,Qatar,Republic of Ireland,Qatar,1,0,Friendly,0,20.0,1.0,1566.0,1379.0,0.839175,0.160825,1.0,0.0,3.216494,3,-3,1569.0,1376.0,1
+422,49264,2026-05-28,Egypt,Russia,Egypt,Russia,1,0,Friendly,0,20.0,1.0,1731.0,1534.0,0.846793,0.153207,1.0,0.0,3.064132,3,-3,1734.0,1531.0,1
+423,49265,2026-05-29,Andorra,Iraq,Andorra,Iraq,0,1,Friendly,1,20.0,1.0,1498.0,1678.0,0.261891,0.738109,0.0,1.0,-5.237819,-5,5,1493.0,1683.0,1
+424,49266,2026-05-29,Bosnia and Herzegovina,North Macedonia,Bosnia and Herzegovina,North Macedonia,0,0,Friendly,0,20.0,1.0,1640.0,1510.0,0.789844,0.210156,0.5,0.5,-5.796884,-6,6,1634.0,1516.0,1
+425,49267,2026-05-29,Iran,Gambia,Iran,Gambia,3,1,Friendly,1,20.0,1.5,1758.0,1498.0,0.817079,0.182921,1.0,0.0,5.487635,5,-5,1763.0,1493.0,1
+426,49268,2026-05-29,South Africa,Nicaragua,South Africa,Nicaragua,0,0,Friendly,0,20.0,1.0,1554.0,1423.0,0.790798,0.209202,0.5,0.5,-5.815962,-6,6,1548.0,1429.0,1
+427,49269,2026-05-30,Ecuador,Saudi Arabia,Ecuador,Saudi Arabia,2,1,Friendly,1,20.0,1.0,1944.0,1571.0,0.895403,0.104597,1.0,0.0,2.091937,2,-2,1946.0,1569.0,1
+428,49270,2026-05-30,South Korea,Trinidad and Tobago,South Korea,Trinidad and Tobago,5,0,Friendly,1,20.0,2.0,1763.0,1495.0,0.823862,0.176138,1.0,0.0,7.045539,7,-7,1770.0,1488.0,1
+429,49271,2026-05-30,Mexico,Australia,Mexico,Australia,1,0,Friendly,1,20.0,1.0,1885.0,1795.0,0.626699,0.373301,1.0,0.0,7.466018,7,-7,1892.0,1788.0,1
+430,49272,2026-05-30,Scotland,Curaçao,Scotland,Curaçao,4,1,Friendly,0,20.0,1.75,1757.0,1535.0,0.864547,0.135453,1.0,0.0,4.740855,5,-5,1762.0,1530.0,1
+431,49275,2026-05-31,Brazil,Panama,Brazil,Panama,6,2,Friendly,0,20.0,1.875,1977.0,1746.0,0.8705,0.1295,1.0,0.0,4.85624,5,-5,1982.0,1741.0,1
+432,49276,2026-05-31,Cape Verde,Serbia,Cape Verde,Serbia,3,0,Friendly,1,20.0,1.75,1608.0,1501.0,0.649295,0.350705,1.0,0.0,12.274677,12,-12,1620.0,1489.0,1
+433,49277,2026-05-31,Czech Republic,Kosovo,Czech Republic,Kosovo,2,1,Friendly,0,20.0,1.0,1703.0,1572.0,0.790798,0.209202,1.0,0.0,4.184038,4,-4,1707.0,1568.0,1
+434,49278,2026-05-31,Germany,Finland,Germany,Finland,4,0,Friendly,0,20.0,1.875,1923.0,1530.0,0.944692,0.055308,1.0,0.0,2.07406,2,-2,1925.0,1528.0,1
+435,49281,2026-05-31,Switzerland,Jordan,Switzerland,Jordan,4,1,Friendly,0,20.0,1.75,1903.0,1679.0,0.86589,0.13411,1.0,0.0,4.693865,5,-5,1908.0,1674.0,1
+436,49282,2026-05-31,United States,Senegal,United States,Senegal,3,2,Friendly,0,20.0,1.0,1733.0,1899.0,0.406145,0.593855,1.0,0.0,11.877108,12,-12,1745.0,1887.0,1
+437,49283,2026-05-31,Japan,Iceland,Japan,Iceland,1,0,Friendly,0,20.0,1.0,1930.0,1523.0,0.948755,0.051245,1.0,0.0,1.024906,1,-1,1931.0,1522.0,1
+438,49284,2026-06-01,Austria,Tunisia,Austria,Tunisia,1,0,Friendly,0,20.0,1.0,1842.0,1655.0,0.839175,0.160825,1.0,0.0,3.216494,3,-3,1845.0,1652.0,1
+439,49286,2026-06-01,Canada,Uzbekistan,Canada,Uzbekistan,2,0,Friendly,0,20.0,1.5,1774.0,1734.0,0.691236,0.308764,1.0,0.0,9.262915,9,-9,1783.0,1725.0,1
+440,49287,2026-06-01,Colombia,Costa Rica,Colombia,Costa Rica,3,1,Friendly,0,20.0,1.5,1991.0,1492.0,0.969175,0.030825,1.0,0.0,0.924748,1,-1,1992.0,1491.0,1
+441,49288,2026-06-01,Norway,Sweden,Norway,Sweden,3,1,Friendly,0,20.0,1.5,1925.0,1640.0,0.901698,0.098302,1.0,0.0,2.949052,3,-3,1928.0,1637.0,1
+442,49290,2026-06-01,Turkey,North Macedonia,Turkey,North Macedonia,4,0,Friendly,0,20.0,1.875,1927.0,1516.0,0.949863,0.050137,1.0,0.0,1.880148,2,-2,1929.0,1514.0,1
+443,49292,2026-06-02,Croatia,Belgium,Croatia,Belgium,0,2,Friendly,0,20.0,1.5,1933.0,1908.0,0.67251,0.32749,0.0,1.0,-20.175289,-20,20,1913.0,1928.0,1
+444,49294,2026-06-02,Haiti,New Zealand,Haiti,New Zealand,4,0,Friendly,1,20.0,1.875,1544.0,1517.0,0.538778,0.461222,1.0,0.0,17.295822,17,-17,1561.0,1500.0,1
+445,49295,2026-06-02,Morocco,Madagascar,Morocco,Madagascar,4,0,Friendly,0,20.0,1.875,1900.0,1500.0,0.94676,0.05324,1.0,0.0,1.996508,2,-2,1902.0,1498.0,1
+446,49296,2026-06-02,Wales,Ghana,Wales,Ghana,1,1,Friendly,0,20.0,1.0,1487.0,1563.0,0.534484,0.465516,0.5,0.5,-0.689679,-1,1,1486.0,1564.0,1
+447,49298,2026-06-03,DR Congo,Denmark,Dem. Rep. of Congo,Denmark,0,0,Friendly,1,20.0,1.0,1733.0,1517.0,0.776155,0.223845,0.5,0.5,-5.523092,-6,6,1727.0,1523.0,1
+448,49300,2026-06-03,South Korea,El Salvador,South Korea,El Salvador,1,0,Friendly,1,20.0,1.0,1770.0,1471.0,0.848281,0.151719,1.0,0.0,3.034379,3,-3,1773.0,1468.0,1
+449,49302,2026-06-03,Netherlands,Algeria,Netherlands,Algeria,0,1,Friendly,0,20.0,1.0,1939.0,1784.0,0.812738,0.187262,0.0,1.0,-16.254754,-16,16,1923.0,1800.0,1
+450,49303,2026-06-03,Panama,Dominican Republic,Panama,Dominican Republic,4,2,Friendly,0,20.0,1.5,1741.0,1489.0,0.883528,0.116472,1.0,0.0,3.494151,3,-3,1744.0,1486.0,1
+451,49309,2026-06-04,France,Ivory Coast,France,Ivory Coast,1,2,Friendly,0,20.0,1.0,2076.0,1758.0,0.917299,0.082701,0.0,1.0,-18.345979,-18,18,2058.0,1776.0,1
+452,49310,2026-06-04,Guatemala,Czech Republic,Guatemala,Czech Republic,1,5,Friendly,1,20.0,1.875,1493.0,1707.0,0.225852,0.774148,0.0,1.0,-8.469451,-8,8,1485.0,1715.0,1
+453,49311,2026-06-04,Iran,Mali,Iran,Mali,2,0,Friendly,1,20.0,1.5,1763.0,1526.0,0.796455,0.203545,1.0,0.0,6.106359,6,-6,1769.0,1520.0,1
+454,49313,2026-06-04,Mexico,Serbia,Mexico,Serbia,5,1,Friendly,0,20.0,1.875,1892.0,1489.0,0.947624,0.052376,1.0,0.0,1.964116,2,-2,1894.0,1487.0,1
+455,49316,2026-06-04,Spain,Iraq,Spain,Iraq,1,1,Friendly,0,20.0,1.0,2162.0,1683.0,0.965543,0.034457,0.5,0.5,-9.310869,-9,9,2153.0,1692.0,1
+456,49317,2026-06-04,Sweden,Greece,Sweden,Greece,2,2,Friendly,0,20.0,1.0,1637.0,1520.0,0.777153,0.222847,0.5,0.5,-5.543062,-6,6,1631.0,1526.0,1
+457,49321,2026-06-05,Canada,Republic of Ireland,Canada,Republic of Ireland,1,1,Friendly,0,20.0,1.0,1783.0,1569.0,0.859063,0.140937,0.5,0.5,-7.18126,-7,7,1776.0,1576.0,1
+458,49323,2026-06-05,Haiti,Peru,Haiti,Peru,1,2,Friendly,1,20.0,1.0,1561.0,1499.0,0.58829,0.41171,0.0,1.0,-11.765799,-12,12,1549.0,1511.0,1
+459,49328,2026-06-05,Paraguay,Nicaragua,Paraguay,Nicaragua,4,0,Friendly,0,20.0,1.875,1826.0,1429.0,0.945883,0.054117,1.0,0.0,2.029404,2,-2,1828.0,1427.0,1
+460,49337,2026-06-05,Puerto Rico,Saudi Arabia,Puerto Rico,Saudi Arabia,0,3,Friendly,1,20.0,1.75,1499.0,1569.0,0.400603,0.599397,0.0,1.0,-14.021112,-14,14,1485.0,1583.0,1
+461,49340,2026-06-06,Argentina,Honduras,Argentina,Honduras,2,0,Friendly,1,20.0,1.5,2083.0,1540.0,0.957943,0.042057,1.0,0.0,1.261714,1,-1,2084.0,1539.0,1
+462,49342,2026-06-06,Australia,Switzerland,Australia,Switzerland,1,1,Friendly,1,20.0,1.0,1788.0,1908.0,0.333861,0.666139,0.5,0.5,3.322788,3,-3,1791.0,1905.0,1
+463,49343,2026-06-06,Belgium,Tunisia,Belgium,Tunisia,5,0,Friendly,0,20.0,2.0,1928.0,1652.0,0.89701,0.10299,1.0,0.0,4.119619,4,-4,1932.0,1648.0,1
+464,49344,2026-06-06,Bermuda,Cape Verde,Bermuda,Cape Verde,3,0,Friendly,1,20.0,1.75,1426.0,1620.0,0.246614,0.753386,1.0,0.0,26.368513,26,-26,1452.0,1594.0,1
+465,49345,2026-06-06,Bolivia,Scotland,Bolivia,Scotland,0,4,Friendly,1,20.0,1.875,1526.0,1762.0,0.20448,0.79552,0.0,1.0,-7.668004,-8,8,1518.0,1770.0,1
+466,49346,2026-06-06,Brazil,Egypt,Brazil,Egypt,2,1,Friendly,1,20.0,1.0,1982.0,1734.0,0.806528,0.193472,1.0,0.0,3.86945,4,-4,1986.0,1730.0,1
+467,49347,2026-06-06,Curaçao,Aruba,Curaçao,Aruba,4,0,Friendly,0,20.0,1.875,1530.0,1500.0,0.678817,0.321183,1.0,0.0,12.044366,12,-12,1542.0,1488.0,1
+468,49348,2026-06-06,England,New Zealand,England,New Zealand,1,0,Friendly,1,20.0,1.0,2000.0,1500.0,0.94676,0.05324,1.0,0.0,1.064804,1,-1,2001.0,1499.0,1
+469,49352,2026-06-06,Jamaica,South Africa,Jamaica,South Africa,0,1,Friendly,1,20.0,1.0,1462.0,1548.0,0.378703,0.621297,0.0,1.0,-7.574066,-8,8,1454.0,1556.0,1
+470,49354,2026-06-06,Panama,Bosnia and Herzegovina,Panama,Bosnia and Herzegovina,1,1,Friendly,1,20.0,1.0,1744.0,1634.0,0.653217,0.346783,0.5,0.5,-3.064343,-3,3,1741.0,1637.0,1
+471,49355,2026-06-06,Portugal,Chile,Portugal,Chile,2,1,Friendly,0,20.0,1.0,1943.0,1521.0,0.952794,0.047206,1.0,0.0,0.944124,1,-1,1944.0,1520.0,1
+472,49356,2026-06-06,Qatar,El Salvador,Qatar,El Salvador,0,0,Friendly,1,20.0,1.0,1376.0,1468.0,0.370611,0.629389,0.5,0.5,2.587771,3,-3,1379.0,1465.0,1
+473,49358,2026-06-06,United States,Germany,United States,Germany,1,2,Friendly,0,20.0,1.0,1745.0,1925.0,0.386863,0.613137,0.0,1.0,-7.737264,-8,8,1737.0,1933.0,1
+474,49361,2026-06-06,Venezuela,Turkey,Venezuela,Turkey,1,2,Friendly,1,20.0,1.0,1511.0,1929.0,0.082701,0.917299,0.0,1.0,-1.654021,-2,2,1509.0,1931.0,1
+475,49366,2026-06-07,Croatia,Slovenia,Croatia,Slovenia,2,1,Friendly,0,20.0,1.0,1913.0,1537.0,0.93935,0.06065,1.0,0.0,1.212991,1,-1,1914.0,1536.0,1
+476,49367,2026-06-07,Ecuador,Guatemala,Ecuador,Guatemala,3,0,Friendly,1,20.0,1.75,1946.0,1485.0,0.93424,0.06576,1.0,0.0,2.301583,2,-2,1948.0,1483.0,1
+477,49369,2026-06-07,Jordan,Colombia,Jordan,Colombia,0,2,Friendly,1,20.0,1.5,1674.0,1992.0,0.138172,0.861828,0.0,1.0,-4.145165,-4,4,1670.0,1996.0,1
+478,49372,2026-06-07,Morocco,Norway,Morocco,Norway,1,1,Friendly,1,20.0,1.0,1902.0,1928.0,0.462653,0.537347,0.5,0.5,0.746946,1,-1,1903.0,1927.0,1
+479,49374,2026-06-08,France,Northern Ireland,France,Northern Ireland,3,1,Friendly,0,20.0,1.5,2058.0,1490.0,0.979068,0.020932,1.0,0.0,0.627963,1,-1,2059.0,1489.0,1
+480,49375,2026-06-08,Netherlands,Uzbekistan,Netherlands,Uzbekistan,2,1,Friendly,1,20.0,1.0,1923.0,1725.0,0.757639,0.242361,1.0,0.0,4.847217,5,-5,1928.0,1720.0,1
+481,49376,2026-06-08,Peru,Spain,Peru,Spain,1,3,Friendly,1,20.0,1.5,1511.0,2153.0,0.02423,0.97577,0.0,1.0,-0.72689,-1,1,1510.0,2154.0,1

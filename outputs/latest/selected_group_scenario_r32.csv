@@ -1,0 +1,17 @@
+scenario_id,match_no,round,source1,source2,team1,team2
+C01,73,R32,A2,B2,South Korea,Switzerland
+C01,74,R32,E1,3D,Ecuador,Paraguay
+C01,75,R32,F1,C2,Japan,Morocco
+C01,76,R32,C1,F2,Brazil,Netherlands
+C01,77,R32,I1,3F,France,Tunisia
+C01,78,R32,E2,I2,Germany,Senegal
+C01,79,R32,A1,3C,Mexico,Scotland
+C01,80,R32,L1,3K,England,Dem. Rep. of Congo
+C01,81,R32,D1,3E,Turkey,Ivory Coast
+C01,82,R32,G1,3I,Belgium,Norway
+C01,83,R32,K2,L2,Portugal,Croatia
+C01,84,R32,H1,J2,Spain,Austria
+C01,85,R32,B1,3G,Canada,Egypt
+C01,86,R32,J1,H2,Argentina,Uruguay
+C01,87,R32,K1,3L,Colombia,Panama
+C01,88,R32,D2,G2,United States,Iran

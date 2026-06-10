@@ -1,0 +1,105 @@
+match_key,round_hint,venue,city,country,region,heat_index,humidity_index,altitude_index,travel_index,note
+G001,Group,Estadio Azteca,Mexico City,Mexico,Mexico,0.55,0.25,1.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G002,Group,Estadio Guadalajara,Guadalajara,Mexico,Mexico,0.65,0.35,0.65,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G003,Group,Estadio Guadalajara,Guadalajara,Mexico,Mexico,0.65,0.35,0.65,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G004,Group,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G005,Group,Estadio Azteca,Mexico City,Mexico,Mexico,0.55,0.25,1.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G006,Group,Estadio Monterrey,Monterrey,Mexico,Mexico,0.9,0.55,0.35,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G007,Group,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+G008,Group,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G009,Group,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G010,Group,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+G011,Group,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G012,Group,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G013,Group,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G014,Group,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+G015,Group,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G016,Group,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+G017,Group,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G018,Group,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G019,Group,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+G020,Group,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G021,Group,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G022,Group,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G023,Group,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+G024,Group,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G025,Group,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G026,Group,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G027,Group,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+G028,Group,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G029,Group,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G030,Group,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G031,Group,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G032,Group,Estadio Monterrey,Monterrey,Mexico,Mexico,0.9,0.55,0.35,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G033,Group,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G034,Group,Estadio Monterrey,Monterrey,Mexico,Mexico,0.9,0.55,0.35,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G035,Group,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G036,Group,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G037,Group,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G038,Group,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+G039,Group,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+G040,Group,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G041,Group,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G042,Group,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G043,Group,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G044,Group,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G045,Group,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G046,Group,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G047,Group,Estadio Guadalajara,Guadalajara,Mexico,Mexico,0.65,0.35,0.65,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G048,Group,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G049,Group,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G050,Group,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+G051,Group,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G052,Group,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G053,Group,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+G054,Group,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+G055,Group,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G056,Group,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G057,Group,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G058,Group,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+G059,Group,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G060,Group,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G061,Group,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G062,Group,Estadio Azteca,Mexico City,Mexico,Mexico,0.55,0.25,1.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G063,Group,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G064,Group,Estadio Guadalajara,Guadalajara,Mexico,Mexico,0.65,0.35,0.65,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G065,Group,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G066,Group,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G067,Group,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+G068,Group,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+G069,Group,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+G070,Group,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+G071,Group,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+G072,Group,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+73,Knockout,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+74,Knockout,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+75,Knockout,Estadio Monterrey,Monterrey,Mexico,Mexico,0.9,0.55,0.35,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+76,Knockout,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+77,Knockout,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+78,Knockout,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+79,Knockout,Estadio Azteca,Mexico City,Mexico,Mexico,0.55,0.25,1.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+80,Knockout,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+81,Knockout,San Francisco Bay Area Stadium,San Francisco Bay Area,United States,US West,0.25,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+82,Knockout,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+83,Knockout,Toronto Stadium,Toronto,Canada,Canada,0.25,0.35,0.0,0.45,Heuristic venue-context scenario input; not a match-day weather forecast.
+84,Knockout,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+85,Knockout,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+86,Knockout,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+87,Knockout,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+88,Knockout,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+89,Knockout,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+90,Knockout,Philadelphia Stadium,Philadelphia,United States,US Northeast,0.55,0.6,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+91,Knockout,Houston Stadium,Houston,United States,US Gulf,1.0,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+92,Knockout,Estadio Azteca,Mexico City,Mexico,Mexico,0.55,0.25,1.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+93,Knockout,BC Place,Vancouver,Canada,Canada,0.15,0.25,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+94,Knockout,Seattle Stadium,Seattle,United States,US West,0.2,0.3,0.0,0.35,Heuristic venue-context scenario input; not a match-day weather forecast.
+95,Knockout,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+96,Knockout,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+97,Knockout,Boston Stadium,Boston,United States,US Northeast,0.35,0.45,0.0,0.5,Heuristic venue-context scenario input; not a match-day weather forecast.
+98,Knockout,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+99,Knockout,Los Angeles Stadium,Los Angeles,United States,US West,0.45,0.3,0.0,0.4,Heuristic venue-context scenario input; not a match-day weather forecast.
+100,Knockout,Kansas City Stadium,Kansas City,United States,US Central,0.7,0.45,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+101,Knockout,Dallas Stadium,Dallas,United States,US South,0.95,0.6,0.1,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+102,Knockout,Mercedes-Benz Stadium,Atlanta,United States,US South,0.75,0.75,0.15,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.
+103,Knockout,Miami Stadium,Miami,United States,US Gulf,0.95,1.0,0.0,0.65,Heuristic venue-context scenario input; not a match-day weather forecast.
+104,Knockout,New York New Jersey Stadium,New York/New Jersey,United States,US Northeast,0.45,0.55,0.0,0.55,Heuristic venue-context scenario input; not a match-day weather forecast.

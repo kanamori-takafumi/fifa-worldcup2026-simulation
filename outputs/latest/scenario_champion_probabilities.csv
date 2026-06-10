@@ -1,0 +1,13 @@
+scenario_id,scenario_group_probability,scenario_selected_weight_normalized,rank_within_scenario,team,champion_conditional_probability,weighted_contribution_within_selected
+C01,nan,1.0,1,Spain,0.09641,0.09641
+C01,nan,1.0,2,Argentina,0.08457,0.08457
+C01,nan,1.0,3,Colombia,0.06326,0.06326
+C01,nan,1.0,4,France,0.06253,0.06253
+C01,nan,1.0,5,Brazil,0.05871,0.05871
+C01,nan,1.0,6,Ecuador,0.0452,0.0452
+C01,nan,1.0,7,England,0.04199,0.04199
+C01,nan,1.0,8,Mexico,0.03972,0.03972
+C01,nan,1.0,9,Japan,0.03347,0.03347
+C01,nan,1.0,10,Portugal,0.032,0.032
+C01,nan,1.0,11,Turkey,0.0304,0.0304
+C01,nan,1.0,12,Morocco,0.02865,0.02865

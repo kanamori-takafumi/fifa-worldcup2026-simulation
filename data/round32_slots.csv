@@ -1,0 +1,17 @@
+match_no,side1,side2,side2_allowed_third_groups,note
+73,A2,B2,,runner-up A vs runner-up B
+74,E1,3rd,A/B/C/D/F,winner E vs best 3rd from listed groups
+75,F1,C2,,winner F vs runner-up C
+76,C1,F2,,winner C vs runner-up F
+77,I1,3rd,C/D/F/G/H,winner I vs best 3rd from listed groups
+78,E2,I2,,runner-up E vs runner-up I
+79,A1,3rd,C/E/F/H/I,winner A vs best 3rd from listed groups
+80,L1,3rd,E/H/I/J/K,winner L vs best 3rd from listed groups
+81,D1,3rd,B/E/F/I/J,winner D vs best 3rd from listed groups
+82,G1,3rd,A/E/H/I/J,winner G vs best 3rd from listed groups
+83,K2,L2,,runner-up K vs runner-up L
+84,H1,J2,,winner H vs runner-up J
+85,B1,3rd,E/F/G/I/J,winner B vs best 3rd from listed groups
+86,J1,H2,,winner J vs runner-up H
+87,K1,3rd,D/E/I/J/L,winner K vs best 3rd from listed groups
+88,D2,G2,,runner-up D vs runner-up G

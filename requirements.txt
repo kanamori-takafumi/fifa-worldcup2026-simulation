@@ -1,0 +1,3 @@
+# Python 3.9+ recommended.
+# Required only for PNG export. HTML/SVG generation works with --no-png.
+cairosvg>=2.7

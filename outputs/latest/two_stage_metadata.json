@@ -1,0 +1,100 @@
+{
+  "model": "Two-stage Elo-Poisson World Cup 2026 simulation with FIFA Annexe C lookup",
+  "group_stage": {
+    "n_sim": 100000,
+    "selection": "top-K coherent group-stage scenarios",
+    "scenario_topk": 10,
+    "scenario_selection": "consensus",
+    "selected_scenario_mass": null
+  },
+  "knockout": {
+    "n_sim_per_selected_scenario": 100000,
+    "conditioning": "fixed group order, fixed best-third set, fixed Annexe C Round-of-32 bracket",
+    "rating_adjustments": "resampled in knockout stage; the selected group scenario fixes bracket structure, not a posterior over latent team strength",
+    "dynamic_elo_note": "Within each simulated knockout path, Elo is updated after every simulated match and used for later matches."
+  },
+  "parameters": {
+    "teams_file": "outputs/latest/elo_recent/teams_elo_updated.csv",
+    "seed": 682,
+    "group_seed": null,
+    "knockout_seed": null,
+    "base_mu": 1.35,
+    "goal_elo_scale": 1600.0,
+    "ko_elo_scale": 400.0,
+    "host_advantage": 100.0,
+    "host_scope": "venue",
+    "contextual_effects": true,
+    "match_context_file": "match_context.csv",
+    "include_static_environment_factors": false,
+    "uncertainty_profile": "moderate",
+    "team_rating_sd": 85.0,
+    "match_rating_sd": 150.0,
+    "match_shock_dist": "student_t",
+    "match_shock_df": 5.0,
+    "goal_overdispersion": 0.25,
+    "penalty_randomness": 0.5,
+    "elo_shrink": 0.82,
+    "dynamic_elo": {
+      "enabled": true,
+      "group_k": 40.0,
+      "k_by_round": {
+        "R32": 60.0,
+        "R16": 60.0,
+        "QF": 60.0,
+        "SF": 60.0,
+        "Final": 60.0,
+        "Third place": 40.0
+      },
+      "scale": 400.0,
+      "host_advantage": null,
+      "use_goal_difference_multiplier": true,
+      "round_delta": false,
+      "knockout_draw_value_for_advancer": 0.5,
+      "audit_limit": 5000,
+      "formula": "R_new = R_old + K * G * (W - W_e); updated ratings affect subsequent simulated matches in the same path"
+    },
+    "upset_prob": 0.1,
+    "upset_underdog_bonus": 180.0,
+    "upset_shock_sd": 80.0,
+    "host/climate/depth": {
+      "confederation_bonus": [
+        "CONMEBOL=25,CONCACAF=15,UEFA=-5"
+      ],
+      "team_bonus": [],
+      "depth_weight": 35.0,
+      "heat_weight": 30.0,
+      "humidity_weight": 15.0,
+      "altitude_weight": 10.0,
+      "travel_weight": 10.0,
+      "contextual_effects": true,
+      "match_context_file": "match_context.csv",
+      "include_static_environment_factors": false
+    }
+  },
+  "selected_scenarios": [
+    {
+      "scenario_id": "C01",
+      "probability": null,
+      "selected_weight_normalized": 1.0,
+      "scenario_type": "consensus_marginal",
+      "selection_note": "Constructed from each group's modal order and the eight groups with the largest third-place qualification probability; not an exact sampled scenario.",
+      "knockout_initial_elos_source": "unconditional_group_terminal_mean_n=100000",
+      "annex_c_option": 37,
+      "advanced_third_groups": [
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "I",
+        "K",
+        "L"
+      ]
+    }
+  ],
+  "limitations": [
+    "Top-K selected scenarios typically have limited total probability because there are many possible group-stage outcomes.",
+    "Knockout conditional simulation fixes the Round-of-32 bracket. Dynamic Elo, when enabled, updates ratings along each simulated knockout path; for consensus scenarios it is not a posterior conditioned on exact group-stage scorelines because those scorelines are not fixed by the scenario.",
+    "Greedy projected brackets are coherent display paths, not maximum-probability full tournament histories."
+  ]
+}

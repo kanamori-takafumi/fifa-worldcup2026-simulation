@@ -1,0 +1,49 @@
+{
+  "teams_file": "data/teams.csv",
+  "results_file": "data/external/international_results.csv",
+  "aliases_file": "data/team_name_aliases.csv",
+  "initial_elo_source": "teams",
+  "initial_elo_note": "Baseline ratings taken from --teams-file.",
+  "start_date": "2025-06-09",
+  "end_date": "2026-06-09",
+  "lookback_days": 365,
+  "focus_teams_only": true,
+  "focus_team_count": 48,
+  "replayed_match_count": 481,
+  "team_history_rows": 616,
+  "non_focus_opponents_initialized": 109,
+  "unknown_initial_elo": 1500.0,
+  "skipped": {
+    "outside_window": 48466,
+    "no_focus_team": 503,
+    "bad_row": 0
+  },
+  "elo_formula": {
+    "rating_update": "R_new = R_old + K * G * (W - W_e)",
+    "expected_result": "W_e = 1 / (1 + 10^(-delta/elo_scale)); non-neutral home delta adds home_advantage_elo to the home team only for W_e",
+    "elo_scale": 400.0,
+    "home_advantage_elo": 100.0,
+    "round_delta": true,
+    "goal_difference_multiplier": "1 for draw/one-goal margin, 1.5 for two-goal margin, (11+N)/8 for N>=3",
+    "k_factors": {
+      "world_cup": 60.0,
+      "continental_final": 50.0,
+      "qualifier": 40.0,
+      "other_tournament": 30.0,
+      "friendly": 20.0
+    }
+  },
+  "trend_weight": 0.0,
+  "outputs": {
+    "teams_file_for_simulation": "outputs/latest/elo_recent/teams_elo_updated.csv",
+    "team_elo_summary": "outputs/latest/elo_recent/team_elo_summary.csv",
+    "team_elo_history": "outputs/latest/elo_recent/team_elo_history.csv",
+    "elo_match_updates": "outputs/latest/elo_recent/elo_match_updates.csv",
+    "trend_svg": "outputs/latest/elo_recent/elo_recent_trends.svg"
+  },
+  "limitations": [
+    "For exact public-rating reconstruction, use --initial-elo-source international-football or a complete --initial-ratings-file at the start date.",
+    "If --initial-elo-source teams is used with current ratings, interpret the result as a recent-form stress test rather than a historical reconstruction.",
+    "Non-tournament opponents not present in teams.csv are initialized at --unknown-initial-elo unless supplied in the input teams universe."
+  ]
+}
